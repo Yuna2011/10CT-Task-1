@@ -8,17 +8,22 @@ The book I have chosen is the first novel in *The Giver* quartet by Lois Lowry c
 
 Jonas's world is perfect. Everything is under control. There is no war or fear or pain. There are no choices. Every person is assigned a role in the Community. When Jonas turns twelve, he is singled out to receive special training from The Giver. The Giver alone holds the memories of the true pain and pleasure of life. Now it's time for Jonas to receive the truth. There is no turning back.
 
-I chose this book because it is a fast-paced novel with a deep storyline as it is set in a crumbling utopian society. This book inspired my project...
+I chose this book because it is a fast-paced novel with a deep storyline set in a crumbling utopian society. This book inspired my project...
 
 ### User Experience Type
-My project will take the format of a website that will introduce the scenery and characters in the novel.
+My project will take the format of a website that will introduce the scenery and characters in the novel. It will enhance the story and themes of the book as it will help users to understand and get a deeper insight in to the novel rather than using games or other experiences to just relive the same story that is already stated in the book.
 
 
 ### Target Market
-My intended audience are teenagers studying a utopian and dystopian society in school or those who have read *The Giver*. 
+My intended audience are teenagers studying a utopian and dystopian society in school or those who have read *The Giver*. This project will appeal to them...
+
+My designs will cater to the audience through...
 
 ### Software and Tools
+I plan to use Adobe XD to create the base of my website and the 'The Giver' movie to retreive the scenery and image of the characters. 
+
 ### Initial Brainstorming
+![](Brainstorming.png)
 
 ## Requirements Specification
 ### Functional Requirements
@@ -50,6 +55,7 @@ Users will be able to either access the map, check the backstory on specific cha
 ### Legal Considerations
 **Copyright & Intellectual Property**  
 **Terms of Use**  
+
 
 
 LUCID - MINDMAP  WEBSITE
