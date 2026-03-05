@@ -30,20 +30,30 @@ I plan to use Adobe XD to create the base of my website and the 'The Giver' movi
 **Purpose of the application**  
 This website will allow useres to explore the book's scenes and characters through interactive profiles. It will be designed to engage fans into the genre of utopia and dystopia and to promote its engaging storyline.
 
-**Use cases**
+**Use cases**  
 Users will be able to either access the map, check the backstory on specific characters, 
 
-**Test cases**
+**Test cases**  
+When the user first opens the website, there will be multiple tabs on the side for different options and the main screen will showcase the blurb and the movie adaptation of the novel. When pressed for example characters, there will be a list descriptions for the character and if map is pressed, a map of the story will be shown. 
 
 ### Non-Functional Requirements
-**Performance**  
-**Usability**  
-**Reliability**  
-**Security**
+**Performance**    
+The website will deliver smooth responses as navigation between the screens will occur with a smooth transition, for example the screen may slide away to reveal the next. I want it to happen in under 2 seconds and for the buttons to process almost instantly when interacted with. 
+
+**Usability**    
+To make the app easy to use, I plan to give a list of tabs under the hambuger menu along the side of the website so that everything is organised and keep my main home screen as simple as possible but also informative. Characters may be split under the heading of houses or where they live and the navigation aid will not exceed more than 3 so that it doesn't become too confusing to navigate. 
+
+**Reliability**    
+I will ensure that the app is consistent and bug-free with consistnet testing in my protoypes and playing around with different ways to code and make it more simpler so that when I have to edit it, I won't accidentally touch or end up ruining some other part of the website. 
+
+**Security**  
+My website won't need a login system but maybe if I have time I will add the feeedback forms. If I do, the forms will be anonymous and the data collected from the information will be automatically recorded in the google form itself. 
 
 ## Social, Ethical and Legal Issues
 ### Social Impact
-**Target Audience Considerations**  
+**Target Audience Considerations**    
+The target audience will be those starting to study 'The Giver' or those who have already read 
+
 **Potential Benefits**  
 **Potential Risks**  
 
