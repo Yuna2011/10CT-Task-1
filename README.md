@@ -10,25 +10,31 @@ The book I have chosen is the first novel in *The Giver* quartet by Lois Lowry c
 
 Jonas's world is perfect. Everything is under control. There is no war or fear or pain. There are no choices. Every person is assigned a role in the Community. When Jonas turns twelve, he is singled out to receive special training from The Giver. The Giver alone holds the memories of the true pain and pleasure of life. Now it's time for Jonas to receive the truth. There is no turning back.
 
-I chose this book because it is a fast-paced novel with a deep storyline set in a crumbling utopian society. This book inspired my project...
+I chose this book because it is a fast-paced novel with a deep storyline set in a crumbling utopian society. This book inspired my project because its world is intentionally incomplete, leaving gaps that can be filled in using my program helping readers understand the deeper meaning behind the story. 
 
 ### User Experience Type
 My project will take the format of a website that will introduce the setting and characters in the novel. It will enhance the story and themes of the book as it helps users to understand and get a deeper insight into the novel rather than using games or other experiences to just relive the same story that is already stated in the book.
 
 
 ### Target Market
-My intended audience are teenagers studying a utopian and dystopian society in school or those who have read *The Giver*. This project will appeal to them by providing...
-- not boring
-interactive
+My intended audience are teenagers studying a utopian and dystopian society in school or those who have read *The Giver*. This project will appeal to them by avoiding the feel of a 'boring' textbook instead using clear visuals and interactive elements. It will also present information in short sections rather than long blocks of text and using imagery and colour palettes that reflect he novel's tones. 
 
-My designs will cater to the audience through...
+My designs will cater to the audience through a combination of clear minimalist layout, interactive elements and short, focused content blocks. 
 
 ### Software and Tools
-I plan to use Adobe XD to create the base of my website and the 'The Giver' movie to retreive the scenery and image of the characters. (table)
+| Tool | Purpose| How it supports the project |
+|---|---|---|
+| Adobe XD | Wireframing and Prototyping | Allows me to deisgn the website layout, create interactive elements and test flows before finalising the design |
+| The Giver film | Visual reference for characters and setting | Helps me capture the aesthetic of the Community, character appearances and other specific details |
 
 ### Initial Brainstorming
 ![](./images/Brainstorming.png)
-- Analyze why I chose my current idea and compare about why I chose it or why it is better than my other options
+I chose my current idea as the website format allows me to focus on visual storytelling, presents information in short digestible sections and uses colour and imageyr to make it easy to navigate in Adobe XD. 
+
+I chose it over the ideas as:
+- Unity is time-consuming and requires advanced 3D knowledge of how to use the app which I don't have.
+- VS Code is harder to design so that it visually captures the user's attention and overall produces a more simpler format than what I want to capture.
+- Figma was another good option but I chose Adobe XD as I have used it before and didn't want to learn how to use a new website when I can use one I already know how to.
 
 ## Requirements Specification
 ### Functional Requirements
