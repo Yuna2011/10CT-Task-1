@@ -39,20 +39,36 @@ I chose it over the ideas as:
 ## Requirements Specification
 ### Functional Requirements
 **Purpose of the application**  
-This website will allow useres to explore the book's scenes and characters through interactive profiles. It will be designed to engage fans into the genre of utopia and dystopia and to promote its engaging storyline.
+This website will allow useres to explore the book's scenes and characters through interactive profiles. It will be designed to engage fans into the genre of utopia and dystopia and to promote its immersive storyline.
 
 **Use cases**  
-Users will be able to either access the map, check the backstory on specific characters, 
+User interactions include:
+- **Accessing the map**   
+Users will be able to access and view the map.
+- **Selecting a household**  
+Users will select a household to view overall information about the characters living in that house.
+- **Selecting a character**  
+Users will select a character to view their backstory.
+- **Accessing the themes**  
+Users will be able to view information on the themes of the novel. 
 
 **Test cases**  
 When the user first opens the website, there will be multiple tabs on the side for different options and the main screen will showcase the blurb and the movie adaptation of the novel. When pressed for example characters, there will be a list descriptions for the character and if map is pressed, a map of the story will be shown. 
+
+When the user first opens the website the expected behaviours are:
+- **Accessing the map**
+When the map is selected from the side bar, it will be displayed and 
+- **Selecting a household**  
+- **Selecting a character**  
+- **Accessing the themes**  
+
 
 ### Non-Functional Requirements
 **Performance**    
 The website will deliver smooth responses as navigation between the screens will occur with a smooth transition, for example the screen may slide away to reveal the next. I want it to happen in under 2 seconds and for the buttons to process almost instantly when interacted with. 
 
 **Usability**    
-To make the app easy to use, I plan to give a list of tabs under the hambuger menu along the side of the website so that everything is organised and keep my main home screen as simple as possible but also informative. Characters may be split under the heading of houses or where they live and the navigation aid will not exceed more than 3 so that it doesn't become too confusing to navigate. 
+To make the app easy to use, I plan to give a list of tabs under the hamburger menu along the side of the website so that everything is organised and keep my main home screen as simple as possible but also informative. Characters may be split under the heading of houses or where they live and the navigation aid will not exceed more than 3 so that it doesn't become too confusing to navigate. 
 
 **Reliability**    
 I will ensure that the app is consistent and bug-free with consistnet testing in my protoypes and playing around with different ways to code and make it more simpler so that when I have to edit it, I won't accidentally touch or end up ruining some other part of the website. 
@@ -83,7 +99,7 @@ The project will fairly represent the setting, characters and themes of the book
 
 ### Legal Considerations
 **Copyright & Intellectual Property**  
-Pictures of the characters or settings will be used from the movie as well as some famous quotes from the book. I will also credit external sources as in some photos or information from different websites. Maybe I will draw the characters or settings muyself and create original assest but I dont think that will be possible with my art skils...
+Pictures of the characters or settings will be used from the movie as well as some famous quotes from the book. I will also credit external sources as in some photos or information from different websites. Maybe I will draw the characters or settings myself and create original assest but I dont think that will be possible with my art skils...
 
 **Terms of Use**  
 
