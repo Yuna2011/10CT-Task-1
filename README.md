@@ -44,34 +44,37 @@ This website will allow useres to explore the book's scenes and characters throu
 **Use cases**  
 User interactions include:
 - **Accessing the map**   
-Users will be able to access and view the map.
-- **Selecting a household**  
-Users will select a household to view overall information about the characters living in that house.
-- **Selecting a character**  
-Users will select a character to view their backstory.
+When the map is selected, users will be able to access and view the map where they will also be able to click on different houses to view the backstory for each. If they want, they will be able to also be transported to the household tabs and be able to look at the characters from there. It will be located as a tab in the side bar on the left.
+- **Viewing household**  
+When the households button is pressed, it will allow the users to view overall information about the backstory and the characters living in that house. It will be located as a tab in the side bar on the left.
+- **Viewing characters**  
+When the character button is pressed, it will alow the users to view all the characters and click into each one to view specific and more in-depth information about them. To make it easier to read and find characters, they will be ranked in alphabetical order. 
 - **Accessing the themes**  
-Users will be able to view information on the themes of the novel. 
+Users will be able to view information on the themes of the novel. It will be located as a tab in the side bar on the left. 
 
 **Test cases**  
 When the user first opens the website, there will be multiple tabs on the side for different options and the main screen will showcase the blurb and the movie adaptation of the novel. When pressed for example characters, there will be a list descriptions for the character and if map is pressed, a map of the story will be shown. 
 
 When the user first opens the website the expected behaviours are:
 - **Accessing the map**
-When the map is selected from the side bar, it will be displayed and 
+
 - **Selecting a household**  
+
 - **Selecting a character**  
+
 - **Accessing the themes**  
+
 
 
 ### Non-Functional Requirements
 **Performance**    
-The website will deliver smooth responses as navigation between the screens will occur with a smooth transition, for example the screen may slide away to reveal the next. I want it to happen in under 2 seconds and for the buttons to process almost instantly when interacted with. 
+The website will deliver smooth responses as navigation between the screens will occur with a smooth transition, for example the screen may slide away to reveal the next. I want it to happen in under 2 seconds and for the buttons to process almost instantly when interacted with. It shouldn't glitch, accidentally take the user to the wrong page or fail to load. 
 
 **Usability**    
-To make the app easy to use, I plan to give a list of tabs under the hamburger menu along the side of the website so that everything is organised and keep my main home screen as simple as possible but also informative. Characters may be split under the heading of houses or where they live and the navigation aid will not exceed more than 3 so that it doesn't become too confusing to navigate. 
+To make the app easy to use, I plan to give a list of tabs under the hamburger menu along the left side of the website so that everything is organised and keep my main home screen as simple as possible but also informative. The description of characters will be kept under the heading of households or where they live and the navigation aid will not exceed more than 3 so that it doesn't become too confusing to navigate.
 
 **Reliability**    
-I will ensure that the app is consistent and bug-free with consistnet testing in my protoypes and playing around with different ways to code and make it more simpler so that when I have to edit it, I won't accidentally touch or end up ruining some other part of the website. 
+I will ensure that the app is consistent and bug-free with consistent testing in my protoypes while playing around with different ways to code and make it more simpler so that when I have to edit it, I won't accidentally touch or end up ruining some other part of the website. 
 
 **Security**  
 My website won't need a login system but maybe if I have time I will add the feeedback forms. If I do, the forms will be anonymous and the data collected from the information will be automatically recorded in the google form itself. 
