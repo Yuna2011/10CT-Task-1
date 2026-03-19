@@ -106,7 +106,5 @@ Pictures of the characters or settings will be used from the movie as well as so
 
 **Terms of Use**  
 
-
-
-LUCID - MINDMAP  WEBSITE
-  
+## Gantt Chart
+![](./images/Gantt_Chart.png)
