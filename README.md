@@ -1,5 +1,5 @@
 # 10CT-Task--1 
-Yuna Shin - Figma
+Yuna Shin
 
 ## Project Proposal
 ### Design Brief
@@ -108,3 +108,10 @@ Pictures of the characters or settings will be used from the movie as well as so
 
 ## Gantt Chart
 ![](./images/Gantt_Chart.png)
+
+## Existing UI's
+| IU Name | Plus | Minus | Implications |
+|---|---|---|---|
+| Pottermore |  |  |  |
+| Shmoop Study Guides |  |  |  |
+| CliffsNotes |  |  |  |
