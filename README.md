@@ -110,8 +110,16 @@ Pictures of the characters or settings will be used from the movie as well as so
 ![](./images/Gantt_Chart.png)
 
 ## Existing UI's
-| IU Name | Plus | Minus | Implications |
+| UI Name | Plus | Minus | Implications |
 |---|---|---|---|
 | Pottermore |  |  |  |
 | Shmoop Study Guides |  |  |  |
 | CliffsNotes |  |  |  |
+
+## Software Options
+| Software Option | Plus | Minus | Implications |
+|---|---|---|---|
+| Adobe XD | Adobe XD is easy to learn and provides the exact tools I need to create my program.  |  |  |
+| Figma |  |  |  |
+| HTML |  |  |  |
+
