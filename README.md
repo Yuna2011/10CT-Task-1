@@ -122,3 +122,43 @@ Pictures of the characters or settings will be used from the movie as well as so
 | **Adobe XD** | Adobe XD is easy to learn and provides the exact tools needed to create a website. It is easy to navigate after you learn the gist of how to use the program, allowing the user to focus on designing the website rather than being complicated like other programs which would take a lot of time to learn. It won’t be that troublesome for me, especially as I have used it before and already understand a little bit of its layout and different features. The tools for prototyping and creating interactive elements make it ideal for a project that needs smooth transitions, clear layouts and organised content. Adobe XD also supports quick testing and editing, so that users can refine their program continuously and efficiently. | Even though Adobe XD is generally intuitive, it can be confusing to use it at first as some tools and features are not immediately obvious. You would have to watch tutorials or look up guides before understanding how to create certain interactions or use specific functions, which can slow down the early stages of creating and designing your project. Some features also require extra steps, making it harder to guess how to use them without any help. In addition, Adobe XD is not as frequently updated anymore, so certain tools aren’t available, feel limited or are outdated compared to other, more modern programs. | Adobe XD has its strengths such as having an intuitive layout and interactive prototyping tools. The fact that I am already familiar with the basics also helps me to use the program as this means that I can design my website efficiently and focus more on the creative aspects of the project which would cut down a lot of time from having to learn how to use a whole other program. However, the challenges such as the confusing features in the beginning, the need to watch tutorials and understand certain tools tell me that I will need extra time for a little bit of extra learning and troubleshooting. This helps me to prepare and save more time for when I might get stuck or need to look up a guide. |
 | **Figma** | Figma is easily accessible and easy to use, even for beginners. It has a clean interface which makes it simple to create wireframes, prototypes and layouts without getting overwhelmed. Figma also runs in the browser, meaning it works on most devices without needing installation, and it automatically saves progress, reducing the risk of losing your work. Figma is also intuitve and fits my purpose on creating a website. It has all the interactive elements and transitons I want and need. | Figma can be confusing at first and is apparently horrible to use for others especially when learning how to use componenets, auto-layout or move advanced prototyping tools. Some features may not be immediately obvious, so you need to start by watching tutorials or looking up guides to understand how to use them properly. Because it is browser-based, it can also lag or slow down if you internet connection is weak, which can interrupt the design process and maybe cause you to lose your program accidentally at some point. While Figma may offer many things, it can feel overwhelming due to the number of tools and panels available, it may take time to become fully comfortable in navigating around. |  |
 | **HTML** |  |  |  |
+
+## Wireframes
+### Home Screen
+![](./images/.png)
+
+### Character Explanation
+![](./images/.png)
+
+### Theme Explanation
+![](./images/.png)
+
+
+### Peer Feedback
+(Word for word)
+**Usability**  
+- Its very structured so you can put it a lot of information without it being overwhelming to the user
+- Very easy to understand
+- Very scrollable
+- Lots of variation in the text size and images so it is easier to understand and identify key elements
+- It uses its space
+
+**Aesthetics**  
+- Lots of images so its visual and engaging
+- The top is consistent which is really good
+- Lots of variation which is not monotonous
+
+**Functionality**  
+- Ya
+- I could tell what it was before you told me
+- It really aligns with your goal
+
+**Improvements**
+- Big chunks texts
+- Maybe the side should be different
+- More images in the theme section
+
+### Evaluation
+Evaluate what you have learned from the feedback and its influence on your understanding of user needs and design improvements. 
+Evaluate the feedback in terms of its impact on your project moving forward. Consider what changes you might make to your project, and why.
+"Thank you for the happiest year of my life" - heh
