@@ -3,35 +3,44 @@ Yuna Shin
 
 ## Project Proposal
 ### Design Brief
-I chose the book, 'The Giver' and the typer of user expereince I will create is a website. This website will deliver a more extensive insight into the different settings and characters in the novel.
+My project is an interactive website created in Adobe XD, based on the novel 'The Giver' by Lois Lowry. This program will help readers explore the world of the book in a more deeper and engaging at their own pace through nteractive components such as characters profiles and explanations of the locations and themes. 
 
 ### Book Choice and Justification
-The book I have chosen is the first novel in *The Giver* quartet by Lois Lowry called "The Giver". It is about:     
+The book I have chosen is the first novel in *The Giver* quartet by Lois Lowry called 'The Giver'. It is about:     
 
-Jonas's world is perfect. Everything is under control. There is no war or fear or pain. There are no choices. Every person is assigned a role in the Community. When Jonas turns twelve, he is singled out to receive special training from The Giver. The Giver alone holds the memories of the true pain and pleasure of life. Now it's time for Jonas to receive the truth. There is no turning back.
+**Summary**  
+*The Giver* follows Jonas, a young boy living in a highliy controlled society where emtoions, memories and individuality have been suppressed for the sake of stability. When he is chosen to become the Receiver of Memory, he begins to uncover the truth about his Community and the sacrifices made to maintain its version of "perfection".
 
-I chose this book because it is a fast-paced novel with a deep storyline set in a crumbling utopian society. This book inspired my project because its world is intentionally incomplete, leaving gaps that can be filled in using my program helping readers understand the deeper meaning behind the story. 
+**Blurb**  
+Jonas's world is perfect. Everything is under control. There is no war or fear or pain. There are no choices. Every person is assigned a role in the Community. When Jonas turns twelve, he is singled out to receive special training from The Giver. The Giver alone holds the memories of the true pain and pleasure of life. Now it's time for Jonas to receive the truth. There is no turning back...
+
+I chose *The Giver* because it is a moderately paced novel with a deep storyline, leaving many aspects open to interpretation. Additionally, the world inside the book is intentionally incomplete, leaving gaps that can be filled in using my program which expands on its characters, themes and locations. 
 
 ### User Experience Type
-My project will take the format of a website that will introduce the setting and characters in the novel. It will enhance the story and themes of the book as it helps users to understand and get a deeper insight into the novel rather than using games or other experiences to just relive the same story that is already stated in the book.
+My project will take the format of an interactive website created in Adobe XD. The website will introduce and explore the locations, themes and characters from *The Giver*, allowing users to navigate through different section and interact with visual elements that will reveal deeper layers of the novel. 
 
+A website is the most effective format for enhancing this project because it allows users to explore the world of the novel at their own pace, rather than simply reliving the plot through a game or retelling. Unlike a game or some other similar experience, the wesbite focuses on expanding the reader's knowledge rather than recreating the events. The interactive features will present the information in a visual and engaging way. 
 
 ### Target Market
-My intended audience are teenagers studying a utopian and dystopian society in school or those who have read *The Giver*. This project will appeal to them by avoiding the feel of a 'boring' textbook instead using clear visuals and interactive elements. It will also present information in short sections rather than long blocks of text and using imagery and colour palettes that reflect he novel's tones. 
+The intended audience for my project are primarily teenagers who are studying utopian and dystopian societies in school, as well as readers who have already read *The Giver*. The users should have an interest in dystopian fiction, a prefernce for learning through visual and interactive formats rather than dense academic texts and a reading level of around a 7th grader. 
 
-My designs will cater to the audience through a combination of clear minimalist layout, interactive elements and short, focused content blocks. 
+The project will appeal to this audience because it is not like other traditional, text-heavy study resources. Instead of long paragraphs or textbook-style explanations, the website will use clear visuals, interactive components and short, focused content sections. This design will maker the information easier ot understand and more enjoyable to explore for the user. The use of imagery and colour palettes that reflect the novel's tone will also help to create an immersive experience that feels connected to the world of *The Giver*. 
+
+My designs will cater to the audience through featuring a minimalist layout with intuitive navigation, ensuring that users can move easily between pages without feeling overhwlemed. Interactive elements such as clickable icons and layable information will keep users engaged while still supporting the information. Short content blocks will help maintain attention.
 
 ### Software and Tools
 | Tool | Purpose| How it supports the project |
 |---|---|---|
-| Adobe XD | Wireframing and Prototyping | Allows me to deisgn the website layout, create interactive elements and test flows before finalising the design |
-| The Giver film | Visual reference for characters and setting | Helps me capture the aesthetic of the Community, character appearances and other specific details |
+| Adobe XD | Wireframing and Prototyping | Allows me to deisgn the website layout, create interactive elements and test user flows before finalising the design |
+| The Giver film | Visual reference for characters and location | Helps me capture the aesthetic of the Community, character appearances and other specific details |
+| Photoshop | Editing and preparing images | Allows me to adjust visuals, create icons and refine assets so they fit the website's style and layout | 
+| Research Sources | Gathering accurate information | Ensures that the content is accurate, meaningful and helpful |
 
 ### Initial Brainstorming
 ![](./images/Brainstorming.png)
-I chose my current idea as the website format allows me to focus on visual storytelling, presents information in short digestible sections and uses colour and imageyr to make it easy to navigate in Adobe XD. 
+I chose my current idea as the website format allows me to focus on visual storytelling, presents information in short digestible sections and uses colour and imagery to make it easy to navigate in Adobe XD. 
 
-I chose it over the ideas as:
+I chose it over the other ideas as:
 - Unity is time-consuming and requires advanced 3D knowledge of how to use the app which I don't have.
 - VS Code is harder to design so that it visually captures the user's attention and overall produces a more simpler format than what I want to capture.
 - Figma was another good option but I chose Adobe XD as I have used it before and didn't want to learn how to use a new website when I can use one I already know how to.
@@ -39,24 +48,60 @@ I chose it over the ideas as:
 ## Requirements Specification
 ### Functional Requirements
 **Purpose of the application**  
-This website will allow useres to explore the book's scenes and characters through interactive profiles. It will be designed to engage fans into the genre of utopia and dystopia and to promote its immersive storyline.
+This website will allow users to explore the book's key locations, themes and characters through interactive features and visual elements. Instead of retelling the plot, it will focus on helping users understand the deeper layers of the story. Users will be able to click through different sections to engage with the layered information that will make the learning experience more dynamic and memorable. 
+
+The project is designed to both engage fans of dystopian fiction and promote the themes and ideas of *The Giver*. By presenting the context in an interactive, visually appealing format, the website will encourage users to think more deeply about the novel's themes. 
 
 **Use cases**  
-User interactions include:
-- **Accessing the map**   
-When the map is selected, users will be able to access and view the map where they will also be able to click on different houses to view the backstory for each. If they want, they will be able to also be transported to the household tabs and be able to look at the characters from there. It will be located as a tab in the side bar on the left.
-- **Viewing household**  
-When the households button is pressed, it will allow the users to view overall information about the backstory and the characters living in that house. It will be located as a tab in the side bar on the left.
+Four key user interactions include:
+- **Accessing the locations**   
+sUers will select a location to explore the different locations within the world of *The Giver*
+
+    User Journey:
+    - The user opens the website 
+    - They click on the hamburger menu on the top left or the 'Locations' button after they scroll down
+    - They click on the word 'Locations'
+    - Underneath, a list of locations will show if hovered over with the mouse
+    - A page will open with the different locations in a sidebar that they can choose form
+
+- **Viewing different households**  
+Users will select a household to view and overview of each family unit in the story, including who lives there and their roles
+
+    User Journey:
+    - The user opens the website
+    - They click on the hamburger menu on the top left or the 'Households' button
+    - They click on the word 'Households'
+    - Underneath, a list of households will show if hovered over with the mouse
+    - A page will open with the different households in a sidebar that they can choose from
+
 - **Viewing characters**  
-When the character button is pressed, it will alow the users to view all the characters and click into each one to view specific and more in-depth information about them. To make it easier to read and find characters, they will be ranked in alphabetical order. 
+Users will select a character to view a detailed profile. 
+
+     User Journey:
+     - The user opens the website
+     - They click on the hamburger menu on the top left or the 'Characters' button
+     - They click on the word 'Characters'
+     - Underneath, a list of ways the characters are divided or orded will show
+     - They click on one
+     - They can also click on the characers directly from the 'Households' tab
+     - A page will open with the different characters listed in a specific order of their choice if hovered over with the mouse
+     - When they click the name of a character, the character's profile will open 
+
 - **Accessing the themes**  
-Users will be able to view information on the themes of the novel. It will be located as a tab in the side bar on the left. 
+Users will select a theme to explore the major ideas of the *The Giver* with a short explanation and visual elements
+
+    User Journey:
+    - The user opens the website
+    - They click on the hamburger menu on the top left or the 'Themes' button
+    - They click on the word 'Themes'
+    - Underneath, a list of themes will show if hovered over with the mouse
+    - A page will open with the different themes in a sidebar they they can choose from
 
 **Test cases**  
-When the user first opens the website, there will be multiple tabs on the side for different options and the main screen will showcase the blurb and the movie adaptation of the novel. When pressed for example characters, there will be a list descriptions for the character and if map is pressed, a map of the story will be shown. 
+When the user first opens the website, their will be a main image and the four different buttons underneath a short explanation. Users will be able to either choose from their or press the hamburger menu located on the top left of the page to view a pop up version of the same choices but with additional sub-choices if they are hovered over with the mouse. If they choose one of the main choices, they will be taken to a page with the sub-choices. However, if a sub-choice is directly chosen, the exact page will open with that information for the sub-choice. 
 
-When the user first opens the website the expected behaviours are:
-- **Accessing the map**
+Four examples:
+- **Accessing the locations**
 
 - **Selecting a household**  
 
@@ -95,14 +140,14 @@ The main themes of dysotpia might be a bit sensitive to younger readers but ther
 The prototype will not collect any user data as it does not have any need to nor will it impact the actual website. 
 
 **Representation & Inclusion**  
-The project will fairly represent the setting, characters and themes of the book. 
+The project will fairly represent the location, characters and themes of the book. 
 
 **Content Sensitivity**  
 'The Giver' is considered a controversial book due to its mature, dark and often disturbing content. There are themes of violence and death, euthanasia, infanticide, suicide, sexuality and neglect. The prototype will handle these by either creating a warning lable before users can use the website or...
 
 ### Legal Considerations
 **Copyright & Intellectual Property**  
-Pictures of the characters or settings will be used from the movie as well as some famous quotes from the book. I will also credit external sources as in some photos or information from different websites. Maybe I will draw the characters or settings myself and create original assest but I dont think that will be possible with my art skils...
+Pictures of the characters or locations will be used from the movie as well as some famous quotes from the book. I will also credit external sources as in some photos or information from different websites. Maybe I will draw the characters or locations myself and create original assest but I dont think that will be possible with my art skils...
 
 **Terms of Use**  
 
@@ -161,4 +206,3 @@ Pictures of the characters or settings will be used from the movie as well as so
 ### Evaluation
 Evaluate what you have learned from the feedback and its influence on your understanding of user needs and design improvements. 
 Evaluate the feedback in terms of its impact on your project moving forward. Consider what changes you might make to your project, and why.
-"Thank you for the happiest year of my life" - heh
