@@ -206,3 +206,44 @@ Pictures of the characters or locations will be used from the movie as well as s
 ### Evaluation
 Evaluate what you have learned from the feedback and its influence on your understanding of user needs and design improvements. 
 Evaluate the feedback in terms of its impact on your project moving forward. Consider what changes you might make to your project, and why.
+
+
+Whilst probably the most onerous to complete as you would need to likely do this in person, an interview is likely the most appropriate for direct user testing. The key difference between an interview and a questionnaire is that whilst you will likely have a similar set of questions, in an interview you can ask follow-up questions and clarify certain answers. As well as this, you could have the user test and give feedback in the same session. 
+
+The drawback of this is that it is more difficult to do via the Internet and you would likely be best suited to interview somebody in person so they can test and provide immediate feedback. 
+
+User Testing and Feedback - Prototype 1
+
+Arisa Komatsu
+I like the set up a lot and its easy to navigate mostly although the hamburger menu is a little hard to understand (but like its not fully develloped sooo) but i like how u can scroll the hamburger menu its nice
+
+i like the variation in like the layout of the website on different pages, makes it more interesting to interact with
+
+the animation of the hamburger menu is soooo cool
+
+maybe lock the navigation bar at the top so ppl can still see it even when u scroll so its more easy tto navigate?
+
+
+Vanessa He
+I very much like the layout it is cvery consistent and very intuitive., Things aqre where i expect them to be so its easy to udnerstand, i know where to look for things. I like that the hamburger menu is scrollable and also its a different colour which is easier to see and i like the top bar is alwAYS THER
+maybe u should get rid of the back arrow on the home page where u spawn beacuse likle u cant even go back why is it there ur deceiveing me... and also ur things are different fcolour bro it makes me burn and its horrible to look at
+
+i really like the animation on the haburger menu also add mroe animations its god ya also like u should make the buttons have an effect when u scroll over them so i know if i can press it or not 
+
+
+
+
+Analyse Feedback
+Following each feedback round, answer the following questions in Markdown:
+
+Analyse the key themes that emerged from user feedback and their overall impact on the project.
+
+Evaluate how intuitive and user-friendly the prototype was based on user feedback.
+
+Analyse whether the design elements and accessibility features effectively met user needs.
+
+Evaluate the performance of the prototype, including any issues related to speed, responsiveness, or compatibility.
+
+Analyse the similarities and differences between survey responses and interview insights to identify patterns.
+
+Evaluate the most critical areas for improvement and how they should be addressed in the next sprint.
