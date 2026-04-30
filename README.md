@@ -212,28 +212,19 @@ Whilst probably the most onerous to complete as you would need to likely do this
 
 The drawback of this is that it is more difficult to do via the Internet and you would likely be best suited to interview somebody in person so they can test and provide immediate feedback. 
 
-User Testing and Feedback - Prototype 1
+## User Testing and Feedback - Prototype 1
+#### Arisa Komatsu   
+I like the set up a lot and its easy to navigate mostly although the hamburger menu is a little hard to understand (but like its not fully developed sooo). However, I like how you can scroll in the menu. I also like the variation in the layouts of the website on different pages making it more interesting to interact with. 
 
-Arisa Komatsu
-I like the set up a lot and its easy to navigate mostly although the hamburger menu is a little hard to understand (but like its not fully develloped sooo) but i like how u can scroll the hamburger menu its nice
+Maybe she should lock the navigation bar at the top so that users will be able to see it even when they scroll. This could make it easier to navigate. 
 
-i like the variation in like the layout of the website on different pages, makes it more interesting to interact with
+#### Vanessa He   
+<small> ""  "" - means couldn't be translated </small>  
+I very much like the layout as it is very consistent and very intuitive. Things are where I expect them to be so it is easy to understand - I know where to look for things. I like that the hamburger menu is scrollable, and also it is a different colour which makes it easier to see. I also like that the top bar is always there. I also really like the animation on the hamburger menu 
 
-the animation of the hamburger menu is soooo cool
+Maybe she should get rid of the back arrow on the home page where the users spawn because you can't go back - "why is it there ur deceiving me..." Also, the words are different colours - "bro it makes me burn". She should also make the buttons have an effect when users scroll over them so that they would know if they can press it or not. 
 
-maybe lock the navigation bar at the top so ppl can still see it even when u scroll so its more easy tto navigate?
-
-
-Vanessa He
-I very much like the layout it is cvery consistent and very intuitive., Things aqre where i expect them to be so its easy to udnerstand, i know where to look for things. I like that the hamburger menu is scrollable and also its a different colour which is easier to see and i like the top bar is alwAYS THER
-maybe u should get rid of the back arrow on the home page where u spawn beacuse likle u cant even go back why is it there ur deceiveing me... and also ur things are different fcolour bro it makes me burn and its horrible to look at
-
-i really like the animation on the haburger menu also add mroe animations its god ya also like u should make the buttons have an effect when u scroll over them so i know if i can press it or not 
-
-
-
-
-Analyse Feedback
+### Analyse Feedback
 Following each feedback round, answer the following questions in Markdown:
 
 Analyse the key themes that emerged from user feedback and their overall impact on the project.
@@ -247,3 +238,54 @@ Evaluate the performance of the prototype, including any issues related to speed
 Analyse the similarities and differences between survey responses and interview insights to identify patterns.
 
 Evaluate the most critical areas for improvement and how they should be addressed in the next sprint.
+
+## Ongoing Evaluation - Week 1
+- Started and finished my first prototype (Prototype 1)
+- Wanted make it so that the menu was collapsable but it kept overlapping the main menus under it instead of them getting pushed down under the sub menus
+- I mainly had trouble in operating the ____ but got the hang of it after watching some videos and experimenting around the screen
+- Was supposed to finish it during the holidays...
+- Time management was good if you only consider the first week of school
+- I need to improve my design as they are too "rectangular" right now I want to make it more immersive to look at
+- I need to work on the menu and try to make it collapsable instead of how it is already out write now instead of when you hover over it
+- For next week, I need to finish prototype 2 by adding all the visual effects and solving the menu problem before week 3 (will be heavy but I guess worth it?)
+- I also need/want to rearrange all of my design but that depends on the time because write now everything is too structured so that it becomes boring to look at in my opinon
+
+
+## Ongoing Evaluation - Week 2
+Provide screenshots of your progress this week.
+
+Outline your progress this week, including key tasks completed and any challenges you encountered.
+
+Analyse the most important design or functionality decisions you made and justify your choices.
+
+Explain how you approached and resolved any difficulties or obstacles this week.
+
+Evaluate your time management and workflow—what strategies were effective, and what could be improved?
+
+Outline your priorities for next week—what specific areas need further development or refinement?
+
+## Ongoing Evaluation - Week 3
+Provide screenshots of your progress this week.
+
+Outline your progress this week, including key tasks completed and any challenges you encountered.
+
+Analyse the most important design or functionality decisions you made and justify your choices.
+
+Explain how you approached and resolved any difficulties or obstacles this week.
+
+Evaluate your time management and workflow—what strategies were effective, and what could be improved?
+
+Outline your priorities for next week—what specific areas need further development or refinement?
+
+## Ongoing Evaluation - Week 4
+Provide screenshots of your progress this week.
+
+Outline your progress this week, including key tasks completed and any challenges you encountered.
+
+Analyse the most important design or functionality decisions you made and justify your choices.
+
+Explain how you approached and resolved any difficulties or obstacles this week.
+
+Evaluate your time management and workflow—what strategies were effective, and what could be improved?
+
+Outline your priorities for next week—what specific areas need further development or refinement?
