@@ -289,3 +289,28 @@ Explain how you approached and resolved any difficulties or obstacles this week.
 Evaluate your time management and workflow—what strategies were effective, and what could be improved?
 
 Outline your priorities for next week—what specific areas need further development or refinement?
+
+
+
+
+Arisa
+i like that the images are mostly monotone, it adds to the theme/atmosphere of the website and its nice
+THE IMAGES ARE SO PIXELATED this makes it feel cheap get better resolution 
+the layout is really nice and i like how we are given the list of main characters and their pictures and the pictures are so nice i like it its like an official site
+maybe add more transitions between screens like when u click a button into a new screen
+i like the side navigation bar and how it transitions which bit of the page u want, it makes it more convenient and ugh its so satisfying
+i also like how big the font size is, its readable and very accessible
+
+
+
+
+Vanessa
+in the hosuehold thing, the box moves with the screen so you might have to fix that, as well as the menu is draggable in the hamburger menu??
+i love how the images are blackj and white and have a matching colour theme so it makes the experience feel like its asll in harmony and it all fits well together
+i like how the end alawys has the disclaimer bar its very good
+maube u should do a home symbol fro the button and the top righy
+i like how the hamburger menu allow su to jump areas quickly but theres also like a contents page inside the main thing for example (theme -> elsewhere, house) which makes it very efficeint and conventient to navigate 
+use btter quality images plsplsplsplslsplsplsplsplpslpslpslsslps\
+when u click a tab in somehwere the tab jumps to the middle of the iamge idk if thats intentional but i dont reall mind
+
+
