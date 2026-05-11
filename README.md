@@ -208,21 +208,25 @@ Evaluate what you have learned from the feedback and its influence on your under
 Evaluate the feedback in terms of its impact on your project moving forward. Consider what changes you might make to your project, and why.
 
 
-Whilst probably the most onerous to complete as you would need to likely do this in person, an interview is likely the most appropriate for direct user testing. The key difference between an interview and a questionnaire is that whilst you will likely have a similar set of questions, in an interview you can ask follow-up questions and clarify certain answers. As well as this, you could have the user test and give feedback in the same session. 
-
-The drawback of this is that it is more difficult to do via the Internet and you would likely be best suited to interview somebody in person so they can test and provide immediate feedback. 
-
 ## User Testing and Feedback - Prototype 1
 #### Arisa Komatsu   
-I like the set up a lot and its easy to navigate mostly although the hamburger menu is a little hard to understand (but like its not fully developed sooo). However, I like how you can scroll in the menu. I also like the variation in the layouts of the website on different pages making it more interesting to interact with. 
-
-Maybe she should lock the navigation bar at the top so that users will be able to see it even when they scroll. This could make it easier to navigate. 
+I like the set up a lot and its easy to navigate mostly although the hamburger menu is a little hard to understand (but like its not fully developed sooo). However, I like how you can scroll in the menu. I also like the variation in the layouts of the website on different pages making it more interesting to interact with.Maybe she should lock the navigation bar at the top so that users will be able to see it even when they scroll. This could make it easier to navigate. 
 
 #### Vanessa He   
 <small> ""  "" - means couldn't be translated </small>  
-I very much like the layout as it is very consistent and very intuitive. Things are where I expect them to be so it is easy to understand - I know where to look for things. I like that the hamburger menu is scrollable, and also it is a different colour which makes it easier to see. I also like that the top bar is always there. I also really like the animation on the hamburger menu 
+I very much like the layout as it is very consistent and very intuitive. Things are where I expect them to be so it is easy to understand - I know where to look for things. I like that the hamburger menu is scrollable, and also it is a different colour which makes it easier to see. I also like that the top bar is always there. I also really like the animation on the hamburger menu. Maybe she should get rid of the back arrow on the home page where the users spawn because you can't go back - "why is it there ur deceiving me..." Also, the words are different colours - "bro it makes me burn". She should also make the buttons have an effect when users scroll over them so that they would know if they can press it or not. 
 
-Maybe she should get rid of the back arrow on the home page where the users spawn because you can't go back - "why is it there ur deceiving me..." Also, the words are different colours - "bro it makes me burn". She should also make the buttons have an effect when users scroll over them so that they would know if they can press it or not. 
+### Analyse Feedback - Prototype 1
+
+
+
+## User Testing and Feedback - Prototype 2
+#### Arisa Komatsu   
+I like that the images are mostly monotonous as it adds to the theme/atmosphere of the website. The layout is really nice and I like how we are given the list of the main characters and their pictures and how the pictures are so nice. It seems like an offical site. I also like the side navigation bar and how it transitions to which bit of the page you want when you click the sub-headings as it makes it more convenient and so satisfying. The font is also a big size so that its readable and very accessible. However, the images are so pixelated and makes it feel cheap. Maybe get a better resolution. Also maybe add more transitions between screens like when you click a button into a new screen. 
+
+#### Vanessa He   
+I love how the images are black and white and have a matching colour theme so it makes the experience feel like its all in harmony and fits well together. I also like how the end always has the disclaimer bar which is very good. However, maybe use better quality images and also when you click a tab somewhere, the tab just jumps to the middle of the image. I don't know if its intentional but I don't really mind. Also, in the household tab the box moves with the screen so you might have to fix that, as well as the menu is draggable in the hamburger menu. 
+
 
 ### Analyse Feedback
 Following each feedback round, answer the following questions in Markdown:
@@ -250,32 +254,31 @@ Evaluate the most critical areas for improvement and how they should be addresse
 - For next week, I need to finish prototype 2 by adding all the visual effects and solving the menu problem before week 3 (will be heavy but I guess worth it?)
 - I also need/want to rearrange all of my design but that depends on the time because write now everything is too structured so that it becomes boring to look at in my opinon
 
-
 ## Ongoing Evaluation - Week 2
-Provide screenshots of your progress this week.
-
-Outline your progress this week, including key tasks completed and any challenges you encountered.
-
-Analyse the most important design or functionality decisions you made and justify your choices.
-
-Explain how you approached and resolved any difficulties or obstacles this week.
-
-Evaluate your time management and workflow—what strategies were effective, and what could be improved?
-
-Outline your priorities for next week—what specific areas need further development or refinement?
+- gave up on my menu and just changed it to be simple
+- Tried to find a different menu but I just couldn't find it
+- I gave up heh and just decided ot go simple is best
+- obvisouly very bad time management because i actually wanted to find all my photos but my mind just gave up on me and i was lazy the whole weekend ( I also had beauty and the ebast to watch so i had no time on saturday as i was out literally the whole day )
+- got my evaluation for protoype 1 from ppl ( monday )
+- I started ot draw my title page the giver picture because id idn't want to get everything from online but then I ended up giving up because im really bad at draqwing and it was really hard to draw and be able to look at it and see what it is clearly (If i t wasnt clear that would be very bad)
+- I think in the future, i will find a picture and put it in a bibliography or try to trace over and draw it myself (we will see)
+- Also added a top white retantgle so that if someone was to scroll, the title, hamrburger menu, back buttpon and logo wouldnt disappear but stay at the top of the screen so that users can go back, go to the main screen or chakc the menu whenver they want to 
+- I didnt know how to do it so i just added a white rectangle and made sure evrything stayed still when they scrolled. I also made sure that in the alyuers, eveyrthing was udner the things mentioned above so that they would scrool beneaqth and not over the title ( I didnt know how to move it to evreuthoing else automaticallyu so i just did it one by ine )
+- I guess next week ill add the photos and try to start the information and try to finsih prototype 3 before i got tas (prob not possible ebcasue i have too much theiry to get through)
+- I need to work on my font and menu because i want my website to be mroe prettier and less bland
 
 ## Ongoing Evaluation - Week 3
-Provide screenshots of your progress this week.
-
-Outline your progress this week, including key tasks completed and any challenges you encountered.
-
-Analyse the most important design or functionality decisions you made and justify your choices.
-
-Explain how you approached and resolved any difficulties or obstacles this week.
-
-Evaluate your time management and workflow—what strategies were effective, and what could be improved?
-
-Outline your priorities for next week—what specific areas need further development or refinement?
+- changed the menu so that it was white and fit he ttheme of everythign else ( arisa's feedback to prototype 2 )
+- I decided to seperate all of my characters to their own pages as it would be easier to read and much more simplke and less confusing for the users rather than them scrolling down and down or clicking the side button
+- It was a little hard to find photos that werene tblurry and if i got them form the movie myself because they were screenshorts they were still very blurry
+- Added a little bibliography thing at the btotom of every page to fulfill my legal conditions to mention the movie for the photos
+- added all photos 
+- added an :"about the author" page
+- wrote all of my informaTION ON THE google docs
+- week 4, i need to edit and move all the information into the actual website on adobe xd
+- got my evaluation about prototype 2 from ppl
+- for the character opages, i also made it so that they could go to different characters hat are related ot them through clickig on their names (I'm freally proyd of it lol and i didnt know how to do it easo;y so ill have ot do all of them one by one )
+- i htink my time tmamagement was actually good this weej because even if adding htphtos dont seem like a lot it actualy took a lot of time and also id dint expect myself to finsih all of the theory 
 
 ## Ongoing Evaluation - Week 4
 Provide screenshots of your progress this week.
@@ -290,27 +293,15 @@ Evaluate your time management and workflow—what strategies were effective, and
 
 Outline your priorities for next week—what specific areas need further development or refinement?
 
+## Ongoing Evaluation - Week 5
+Provide screenshots of your progress this week.
 
+Outline your progress this week, including key tasks completed and any challenges you encountered.
 
+Analyse the most important design or functionality decisions you made and justify your choices.
 
-Arisa
-i like that the images are mostly monotone, it adds to the theme/atmosphere of the website and its nice
-THE IMAGES ARE SO PIXELATED this makes it feel cheap get better resolution 
-the layout is really nice and i like how we are given the list of main characters and their pictures and the pictures are so nice i like it its like an official site
-maybe add more transitions between screens like when u click a button into a new screen
-i like the side navigation bar and how it transitions which bit of the page u want, it makes it more convenient and ugh its so satisfying
-i also like how big the font size is, its readable and very accessible
+Explain how you approached and resolved any difficulties or obstacles this week.
 
+Evaluate your time management and workflow—what strategies were effective, and what could be improved?
 
-
-
-Vanessa
-in the hosuehold thing, the box moves with the screen so you might have to fix that, as well as the menu is draggable in the hamburger menu??
-i love how the images are blackj and white and have a matching colour theme so it makes the experience feel like its asll in harmony and it all fits well together
-i like how the end alawys has the disclaimer bar its very good
-maube u should do a home symbol fro the button and the top righy
-i like how the hamburger menu allow su to jump areas quickly but theres also like a contents page inside the main thing for example (theme -> elsewhere, house) which makes it very efficeint and conventient to navigate 
-use btter quality images plsplsplsplslsplsplsplsplpslpslpslsslps\
-when u click a tab in somehwere the tab jumps to the middle of the iamge idk if thats intentional but i dont reall mind
-
-
+Outline your priorities for next week—what specific areas need further development or refinement?
