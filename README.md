@@ -3,7 +3,7 @@ Yuna Shin
 
 ## Project Proposal
 ### Design Brief
-My project is an interactive website created in Adobe XD, based on the novel 'The Giver' by Lois Lowry. This program will help readers explore the world of the book in a more deeper and engaging at their own pace through nteractive components such as characters profiles and explanations of the locations and themes. 
+My project is an interactive website created in Adobe XD, based on the novel 'The Giver' by Lois Lowry. This program will help readers explore the world of the book in a more deeper and engaging at their own pace through nteractive components such as characters profiles and explanations of the settings and themes. 
 
 ### Book Choice and Justification
 The book I have chosen is the first novel in *The Giver* quartet by Lois Lowry called 'The Giver'. It is about:     
@@ -14,10 +14,10 @@ The book I have chosen is the first novel in *The Giver* quartet by Lois Lowry c
 **Blurb**  
 Jonas's world is perfect. Everything is under control. There is no war or fear or pain. There are no choices. Every person is assigned a role in the Community. When Jonas turns twelve, he is singled out to receive special training from The Giver. The Giver alone holds the memories of the true pain and pleasure of life. Now it's time for Jonas to receive the truth. There is no turning back...
 
-I chose *The Giver* because it is a moderately paced novel with a deep storyline, leaving many aspects open to interpretation. Additionally, the world inside the book is intentionally incomplete, leaving gaps that can be filled in using my program which expands on its characters, themes and locations. 
+I chose *The Giver* because it is a moderately paced novel with a deep storyline, leaving many aspects open to interpretation. Additionally, the world inside the book is intentionally incomplete, leaving gaps that can be filled in using my program which expands on its characters, themes and settings. 
 
 ### User Experience Type
-My project will take the format of an interactive website created in Adobe XD. The website will introduce and explore the locations, themes and characters from *The Giver*, allowing users to navigate through different section and interact with visual elements that will reveal deeper layers of the novel. 
+My project will take the format of an interactive website created in Adobe XD. The website will introduce and explore the settings, themes and characters from *The Giver*, allowing users to navigate through different section and interact with visual elements that will reveal deeper layers of the novel. 
 
 A website is the most effective format for enhancing this project because it allows users to explore the world of the novel at their own pace, rather than simply reliving the plot through a game or retelling. Unlike a game or some other similar experience, the wesbite focuses on expanding the reader's knowledge rather than recreating the events. The interactive features will present the information in a visual and engaging way. 
 
@@ -32,7 +32,7 @@ My designs will cater to the audience through featuring a minimalist layout with
 | Tool | Purpose| How it supports the project |
 |---|---|---|
 | Adobe XD | Wireframing and Prototyping | Allows me to deisgn the website layout, create interactive elements and test user flows before finalising the design |
-| The Giver film | Visual reference for characters and location | Helps me capture the aesthetic of the Community, character appearances and other specific details |
+| The Giver film | Visual reference for characters and locsettingsation | Helps me capture the aesthetic of the Community, character appearances and other specific details |
 | Photoshop | Editing and preparing images | Allows me to adjust visuals, create icons and refine assets so they fit the website's style and layout | 
 | Research Sources | Gathering accurate information | Ensures that the content is accurate, meaningful and helpful |
 
@@ -48,43 +48,38 @@ I chose it over the other ideas as:
 ## Requirements Specification
 ### Functional Requirements
 **Purpose of the application**  
-This website will allow users to explore the book's key locations, themes and characters through interactive features and visual elements. Instead of retelling the plot, it will focus on helping users understand the deeper layers of the story. Users will be able to click through different sections to engage with the layered information that will make the learning experience more dynamic and memorable. 
+This website will allow users to explore the book's key settings, themes and characters through interactive features and visual elements. Instead of retelling the plot, it will focus on helping users understand the deeper layers of the story. Users will be able to click through different sections to engage with the layered information that will make the learning experience more dynamic and memorable. 
 
 The project is designed to both engage fans of dystopian fiction and promote the themes and ideas of *The Giver*. By presenting the context in an interactive, visually appealing format, the website will encourage users to think more deeply about the novel's themes. 
 
 **Use cases**  
 Four key user interactions include:
-- **Accessing the locations**   
-sUers will select a location to explore the different locations within the world of *The Giver*
+- **Accessing the settings**   
+sUers will select a settings to explore the different settings within the world of *The Giver*
 
     User Journey:
     - The user opens the website 
-    - They click on the hamburger menu on the top left or the 'Locations' button after they scroll down
-    - They click on the word 'Locations'
-    - Underneath, a list of locations will show if hovered over with the mouse
-    - A page will open with the different locations in a sidebar that they can choose form
+    - They click on the hamburger menu on the top left or the 'Settings' button after they scroll down
+    - They click on the word 'Settings'
+    - A page will open with the different settings in a sidebar that they can choose form
 
-- **Viewing different households**  
+- **Accessing the households**  
 Users will select a household to view and overview of each family unit in the story, including who lives there and their roles
 
     User Journey:
     - The user opens the website
     - They click on the hamburger menu on the top left or the 'Households' button
     - They click on the word 'Households'
-    - Underneath, a list of households will show if hovered over with the mouse
     - A page will open with the different households in a sidebar that they can choose from
 
-- **Viewing characters**  
-Users will select a character to view a detailed profile. 
+- **Accessing the characters**  
+Users will select a character to view a detailed profile
 
      User Journey:
      - The user opens the website
      - They click on the hamburger menu on the top left or the 'Characters' button
      - They click on the word 'Characters'
-     - Underneath, a list of ways the characters are divided or orded will show
-     - They click on one
      - They can also click on the characers directly from the 'Households' tab
-     - A page will open with the different characters listed in a specific order of their choice if hovered over with the mouse
      - When they click the name of a character, the character's profile will open 
 
 - **Accessing the themes**  
@@ -94,62 +89,125 @@ Users will select a theme to explore the major ideas of the *The Giver* with a s
     - The user opens the website
     - They click on the hamburger menu on the top left or the 'Themes' button
     - They click on the word 'Themes'
-    - Underneath, a list of themes will show if hovered over with the mouse
     - A page will open with the different themes in a sidebar they they can choose from
 
+- **Accessing the 'About the Author'**
+Users will be able to get a deeper understanding about the author
+
+    User Journey:
+    - The user opens the website
+    - They click on the hamburger menu on the top left
+    - They click on 'About the Author'
+    - A page will open that shows the basic information about the author
+
 **Test cases**  
-When the user first opens the website, their will be a main image and the four different buttons underneath a short explanation. Users will be able to either choose from their or press the hamburger menu located on the top left of the page to view a pop up version of the same choices but with additional sub-choices if they are hovered over with the mouse. If they choose one of the main choices, they will be taken to a page with the sub-choices. However, if a sub-choice is directly chosen, the exact page will open with that information for the sub-choice. 
+Four examples:  
+**Accessing the settings**    
+- Expected Behaviour  
+When the user selects 'Settings', the website should smoothly transition to the Settings page within 2 seconds. A sidebar should appear showing all available settings from *The Giver*, and each option should be clickable. 
 
-Four examples:
-- **Accessing the locations**
+- Testing Method  
+1. The button responds instantly
+2. The transition animation works
+3. The correct page loads every time
+4. All sidebar items scroll to the correct setting. 
 
-- **Selecting a household**  
+**Accessing a household**  
+- Expected Behaviour  
+When the user selects 'Households', the website should open a page with a sidebar listing all the households. Selecting a household should display its family members. 
 
-- **Selecting a character**  
+- Testing Method  
+1. No broken links
+2. The correct household information appears
+3. Navigation back to the menu works consistently  
 
-- **Accessing the themes**  
+**Accessing a character**  
+- Expected Behaviour  
+When the user selects 'Characters', the website should open a page with the listing of all the characters. Then after the user chooses a specific character should the website then open the detailed information into the selected character showing their description, role and photo. 
+
+- Testing Method
+1. The correct profile loads
+2. Images and text display properly
+3. There are no delays or glitches  
+
+**Accessing the themes**  
+- Expected Behaviour  
+When the user selects 'Themes', the website should open a page with a sidebar listing the major themes. Clicking a theme should reveal an explanation and supporting quotes. 
+
+- Testing Method
+1. The correct theme content loads
+2. Visual elements appear correctly
+3. Navigation remains smooth  
+
+**Accessing the 'About the Author'**
+- Expected behaviour
+When the user selects 'About the Author', the website should open a page dedicated to showing the key information about the author, Lois Lowry. 
+
+- Testing Method
+1. The menu button responds instantly
+2. The correct page loads every time
+3. All text and images appear correctly
 
 
 
 ### Non-Functional Requirements
 **Performance**    
-The website will deliver smooth responses as navigation between the screens will occur with a smooth transition, for example the screen may slide away to reveal the next. I want it to happen in under 2 seconds and for the buttons to process almost instantly when interacted with. It shouldn't glitch, accidentally take the user to the wrong page or fail to load. 
+The website will deliver smooth, responsive interactions to ensure that users can move between pages without delays. Navigation transitions will occur within a second and all buttons will respond instantly when clicked. Images and texts will load quickly so users do not experience lag or broken content. This is to make sure that the website is an engaging interactive experience. 
 
 **Usability**    
-To make the app easy to use, I plan to give a list of tabs under the hamburger menu along the left side of the website so that everything is organised and keep my main home screen as simple as possible but also informative. The description of characters will be kept under the heading of households or where they live and the navigation aid will not exceed more than 3 so that it doesn't become too confusing to navigate.
+The design will prioritise clarity and ease of use through a consistent layout, minimalist interface and a intuitive navigation structure. A left-side hamburger menu will keep sections organised while each page uses accessible font sizes and clear headings. Interactive elemtns such as clickable icons and layered information will be easy to recognise and use, helping users explore the content without confusion. 
 
 **Reliability**    
-I will ensure that the app is consistent and bug-free with consistent testing in my protoypes while playing around with different ways to code and make it more simpler so that when I have to edit it, I won't accidentally touch or end up ruining some other part of the website. 
+The website will be designed to function consistently and predictably so users can navigate without encountering errors or broken interactions. To achieve this, the prototype will be built using a clear and organised structure in Adobe XD, with most components, artboards, and assets properly labelled. This reduces the chance of accidental changes affecting other parts of the design and makes it easier to update or refine features later. 
+
+Throughout development, each interactive element such as buttons, menus, transitions and clickable icons will be tested repeatedly to ensure they always lead to the correct page and behave the same way every time. Any issues such as broken links, missing content, or inconsistent animations will be identified early and corrected before finalising the prototype.
 
 **Security**  
-My website won't need a login system but maybe if I have time I will add the feeedback forms. If I do, the forms will be anonymous and the data collected from the information will be automatically recorded in the google form itself. 
+The website prototype will prioritise user safety by ensuring that no personal data is collected, stored or shared at any stage. Because the project does not require accounts, logins or user trakcing, there is no risk of exposing sensitive information. All interactions within the protoype remain local to the user, meaning nothing they click, view or explore is recorded. By keeping the design avoid data-collection features, the project maintains a secure environment suitable for students and general readers. 
 
 ## Social, Ethical and Legal Issues
 ### Social Impact
 **Target Audience Considerations**    
-The target audience will be those starting to study 'The Giver' or those who have already read 
+The target audience of this interactive website will be those studying dystopian fiction or reading *The Giver* in class. These users can benefit from the visual and interactive learning.   
+
+Accessibility needs may include:
+- Clear, readable fonts for students with reading difficulties
+- Simple navigation for users who struggle with complex interfaces
+- A minimalist layout to reduce overload and overwhelming users  
+
+The design aims to be inclusive so that all students, regardless of reading levels or learning styles can understand and engage with the content. 
 
 **Potential Benefits**  
-This project positively impacts users as it encourages reading and fosters discussion of the novel with a deeper understanding. 
+This project has several positive impacts on its users. It encourages students to engage more deeply with the novel, helping them understand its characters, themes, etc. in a way that feels approachable and enjoyable. 
+
+The interactive format supports:
+- Improved conprehension as students can explore information at their own pace
+- Increased motivation to read since the website maks the story feel more immersive
+- Support for visual learners who often struggle with traditional study materials
+
+By presenting the novel's ideas in a interactive way, the project helps bridge the gap between reading and understanding. 
 
 **Potential Risks**  
-The main themes of dysotpia might be a bit sensitive to younger readers but there isn't any design that could exclude or misrepresent certain groups. 
+Although the design is inclusive, there are still some risks to consider. The world of *The Giver* includes themes such as death, euthanasia, emotional suppression and strict societal control which may be sensitive for younger or more vulnerable users. Care must be taken to present these topics responsibly with simplified explanations. There is also a small risk of unintentionally misrepresenting characters or settings if visuals rely too heavily on the film adaptation rather than the book. To avoid this, the project will aim to stay faithful to the novel's descriptions. Overall, the design will be created with sensitivity and awareness to ensure that no group is excluded, misrepresented or exposed to content without appropriate context. 
 
 ### Ethical Responsibilities
 **User Data & Privacy**  
-The prototype will not collect any user data as it does not have any need to nor will it impact the actual website. 
+The prototype will not collect any user data, as it does not require accounts, logins, or personal information for users to explore the content. All interactions such as clicking buttons or navigating between pages will remain entirely within the Adobe XD prototype and are not stored or tracked. Because no data is collected, there is no risk of misuse, sharing, or accidental exposure of personal information. This makes the experience safe for students and general readers, especially younger users. Any external assets used (such as images or quotes) will be handled responsibly and credited properly to avoid copyright issues.
 
 **Representation & Inclusion**  
-The project will fairly represent the location, characters and themes of the book. 
+The project aims to fairly and accurately represent the characters, settings, and themes from *The Giver*. Since the book intentionally leaves some details open to interpretation, the design will avoid stereotypes or assumptions that could misrepresent characters or groups. Visuals inspired by the film will be used carefully to ensure they do not contradict the book’s descriptions or create biased portrayals. The goal is to present the world of the novel in a way that is respectful, neutral, and inclusive for all users.
 
 **Content Sensitivity**  
-'The Giver' is considered a controversial book due to its mature, dark and often disturbing content. There are themes of violence and death, euthanasia, infanticide, suicide, sexuality and neglect. The prototype will handle these by either creating a warning lable before users can use the website or...
+*The Giver* is considered a controversial book due to its mature, dark and often disturbing content. There are themes of violence and death, euthanasia, infanticide, suicide, sexuality and neglect. These topics can be confronting for younger audiences. To handle this responsibly, the prototype will present sensitive themes in a simplified, age-appropriate way, avoid graphic or distrubing imagery and focus on explaining ideas rather than the distressing details. This ensures the website remains educational and respectful while still acknowledging the seriousness of the book’s themes.
 
 ### Legal Considerations
 **Copyright & Intellectual Property**  
-Pictures of the characters or locations will be used from the movie as well as some famous quotes from the book. I will also credit external sources as in some photos or information from different websites. Maybe I will draw the characters or locations myself and create original assest but I dont think that will be possible with my art skils...
+This project will use materials from the both the movie and the book including short quotes and images from the movie. Because these materials are protected by copyright, they will be handled carefully within legal limits. Only bried excerpts from the novel will be used which falls under fair dealing for education purposes in Australia. Any images used in the prototype will be clearly credited at the bottom of every page to acknowledge the original creators and avoid misuse. 
 
-**Terms of Use**  
+**Terms of Use** 
+If this project was to be released as a real website, it would need to be changed to follow the legal requriements for using material from both *The Giver* book and its movie adaptation. Any quotes taken directly from the novel are protected by copyright meaning that it will be fine as long as they are used for education purposes, like my website, and are only short excerpts. Images from the film are also copyrighted and cannot be used freely outside an educational purpose. Because of this, the images would need to be credited properly and in a real public release need permission from the right holders. 
+
+The project must also follow the terms of use for the software used to create it, such as Adove XD to ensure that all tools and assets are used legally and withint their allowed purposes. 
 
 ## Gantt Chart
 ![](./images/Gantt_Chart.png)
@@ -170,13 +228,13 @@ Pictures of the characters or locations will be used from the movie as well as s
 
 ## Wireframes
 ### Home Screen
-![](./images/.png)
+![](./images/Home_Page.png)
 
 ### Character Explanation
-![](./images/.png)
+![](./images/Character_Page.png)
 
 ### Theme Explanation
-![](./images/.png)
+![](./images/Theme_Page.png)
 
 
 ### Peer Feedback
@@ -254,6 +312,9 @@ Evaluate the most critical areas for improvement and how they should be addresse
 - For next week, I need to finish prototype 2 by adding all the visual effects and solving the menu problem before week 3 (will be heavy but I guess worth it?)
 - I also need/want to rearrange all of my design but that depends on the time because write now everything is too structured so that it becomes boring to look at in my opinon
 
+![](./images/First_Menu.png)
+![](./images/First_Prototype.png)
+
 ## Ongoing Evaluation - Week 2
 - gave up on my menu and just changed it to be simple
 - Tried to find a different menu but I just couldn't find it
@@ -266,6 +327,9 @@ Evaluate the most critical areas for improvement and how they should be addresse
 - I didnt know how to do it so i just added a white rectangle and made sure evrything stayed still when they scrolled. I also made sure that in the alyuers, eveyrthing was udner the things mentioned above so that they would scrool beneaqth and not over the title ( I didnt know how to move it to evreuthoing else automaticallyu so i just did it one by ine )
 - I guess next week ill add the photos and try to start the information and try to finsih prototype 3 before i got tas (prob not possible ebcasue i have too much theiry to get through)
 - I need to work on my font and menu because i want my website to be mroe prettier and less bland
+
+![](./images/White_Rectangle.png)
+![](./images/Second_Menu.png)
 
 ## Ongoing Evaluation - Week 3
 - changed the menu so that it was white and fit he ttheme of everythign else ( arisa's feedback to prototype 2 )
@@ -280,6 +344,9 @@ Evaluate the most critical areas for improvement and how they should be addresse
 - for the character opages, i also made it so that they could go to different characters hat are related ot them through clickig on their names (I'm freally proyd of it lol and i didnt know how to do it easo;y so ill have ot do all of them one by one )
 - i htink my time tmamagement was actually good this weej because even if adding htphtos dont seem like a lot it actualy took a lot of time and also id dint expect myself to finsih all of the theory 
 
+![](./images/Final_Menu.png)
+![](./images/Images_Added.png)
+
 ## Ongoing Evaluation - Week 4
 Provide screenshots of your progress this week.
 
@@ -293,6 +360,10 @@ Evaluate your time management and workflow—what strategies were effective, and
 
 Outline your priorities for next week—what specific areas need further development or refinement?
 
+- added all information in
+
+![](./images/Information_Added.png)
+
 ## Ongoing Evaluation - Week 5
 Provide screenshots of your progress this week.
 
@@ -305,3 +376,18 @@ Explain how you approached and resolved any difficulties or obstacles this week.
 Evaluate your time management and workflow—what strategies were effective, and what could be improved?
 
 Outline your priorities for next week—what specific areas need further development or refinement?
+
+- Added logo and fixed all blurry images
+
+![](./images/Finished.png)
+
+## Final Evaluation
+### Evaluate how effectively your product meets the functional and non-functional requirements, including its stated purpose, use case flows, expected behaviours, usability, performance, reliability, and any relevant security considerations.
+
+### Evaluate how well your final product meets the intentions outlined in your design brief, including suitability for the target audience and purpose.
+
+### Evaluate the extent to which your project addresses relevant social, ethical, and legal responsibilities, particularly in relation to the chosen book and user experience.
+
+### Evaluate how effectively you managed your time, resources, and processes throughout the project, including how well you met milestones, adapted to challenges, and maintained consistent progress.
+
+## Evaluate how effectively you gathered and responded to user feedback and testing with consideration to how it influenced your design decisions and what aspects of the product still require improvement.
