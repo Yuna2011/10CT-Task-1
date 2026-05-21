@@ -3,36 +3,36 @@ Yuna Shin
 
 ## Project Proposal
 ### Design Brief
-My project is an interactive website created in Adobe XD, based on the novel 'The Giver' by Lois Lowry. This program will help readers explore the world of the book in a more deeper and engaging at their own pace through nteractive components such as characters profiles and explanations of the settings and themes. 
+My project is an interactive website created in Adobe XD, based on the novel 'The Giver' by Lois Lowry. This program will help readers explore the world of the book in a more deeper and engaging way at their own pace, through interactive components such as character profiles and explanations of the settings and themes. 
 
 ### Book Choice and Justification
 The book I have chosen is the first novel in *The Giver* quartet by Lois Lowry called 'The Giver'. It is about:     
 
 **Summary**  
-*The Giver* follows Jonas, a young boy living in a highliy controlled society where emtoions, memories and individuality have been suppressed for the sake of stability. When he is chosen to become the Receiver of Memory, he begins to uncover the truth about his Community and the sacrifices made to maintain its version of "perfection".
+*The Giver* follows Jonas, a young boy living in a highly controlled society where emotions, memories and individuality have been suppressed for the sake of stability. When he is chosen to become the Receiver of Memory, he begins to uncover the truth about his Community and the sacrifices made to maintain its version of "perfection".
 
 **Blurb**  
-Jonas's world is perfect. Everything is under control. There is no war or fear or pain. There are no choices. Every person is assigned a role in the Community. When Jonas turns twelve, he is singled out to receive special training from The Giver. The Giver alone holds the memories of the true pain and pleasure of life. Now it's time for Jonas to receive the truth. There is no turning back...
+Jonas's world is perfect. Everything is under control. There is no war or fear or pain. There are no choices. Every person is assigned a role in the Community. When Jonas turns twelve, he is singled out to receive special training from the Giver. The Giver alone holds the memories of the true pain and pleasure of life. Now it's time for Jonas to receive the truth. There is no turning back...
 
 I chose *The Giver* because it is a moderately paced novel with a deep storyline, leaving many aspects open to interpretation. Additionally, the world inside the book is intentionally incomplete, leaving gaps that can be filled in using my program which expands on its characters, themes and settings. 
 
 ### User Experience Type
-My project will take the format of an interactive website created in Adobe XD. The website will introduce and explore the settings, themes and characters from *The Giver*, allowing users to navigate through different section and interact with visual elements that will reveal deeper layers of the novel. 
+My project will take the format of an interactive website created in Adobe XD. The website will introduce and explore the settings, themes and characters from *The Giver*, allowing users to navigate through different sections and interact with visual elements that will reveal deeper layers of the novel. 
 
-A website is the most effective format for enhancing this project because it allows users to explore the world of the novel at their own pace, rather than simply reliving the plot through a game or retelling. Unlike a game or some other similar experience, the wesbite focuses on expanding the reader's knowledge rather than recreating the events. The interactive features will present the information in a visual and engaging way. 
+A website is the most effective format for enhancing this project because it allows users to explore the world of the novel at their own pace, rather than simply reliving the plot through a game or retelling. Unlike a game or some other similar experience, the website focuses on expanding the reader's knowledge rather than recreating the events. The interactive features will present the information in a visual and engaging way. 
 
 ### Target Market
-The intended audience for my project are primarily teenagers who are studying utopian and dystopian societies in school, as well as readers who have already read *The Giver*. The users should have an interest in dystopian fiction, a prefernce for learning through visual and interactive formats rather than dense academic texts and a reading level of around a 7th grader. 
+The intended audience for my project are primarily teenagers who are studying utopian and dystopian societies in school, as well as readers who have already read *The Giver*. The users should have an interest in dystopian fiction, a preference for learning through visual and interactive formats rather than dense academic texts and a reading level of around a 7th grader. 
 
-The project will appeal to this audience because it is not like other traditional, text-heavy study resources. Instead of long paragraphs or textbook-style explanations, the website will use clear visuals, interactive components and short, focused content sections. This design will maker the information easier ot understand and more enjoyable to explore for the user. The use of imagery and colour palettes that reflect the novel's tone will also help to create an immersive experience that feels connected to the world of *The Giver*. 
+The project will appeal to this audience because it is not like other traditional, text-heavy study resources. Instead of long, repetitive paragraphs or explanations, the website will use clear visuals, interactive components and short, focused content sections. This design will make the information easier to understand and more enjoyable to explore for the user. The use of imagery and colour palettes that reflect the novel's tone will also help to create an immersive experience that feels connected to the world of *The Giver*. 
 
-My designs will cater to the audience through featuring a minimalist layout with intuitive navigation, ensuring that users can move easily between pages without feeling overhwlemed. Interactive elements such as clickable icons and layable information will keep users engaged while still supporting the information. Short content blocks will help maintain attention.
+My designs will cater to the audience through featuring a minimalist layout with intuitive navigation, ensuring that users can move easily between pages without feeling overwhelmed. Interactive elements such as clickable icons and layable information will keep users engaged while still supporting the information. Short content blocks will help maintain attention.
 
 ### Software and Tools
 | Tool | Purpose| How it supports the project |
 |---|---|---|
 | Adobe XD | Wireframing and Prototyping | Allows me to deisgn the website layout, create interactive elements and test user flows before finalising the design |
-| The Giver film | Visual reference for characters and locsettingsation | Helps me capture the aesthetic of the Community, character appearances and other specific details |
+| *The Giver* film | Visual reference for characters and settinsg | Helps me capture the aesthetic of the Community, character appearances and other specific details |
 | Photoshop | Editing and preparing images | Allows me to adjust visuals, create icons and refine assets so they fit the website's style and layout | 
 | Research Sources | Gathering accurate information | Ensures that the content is accurate, meaningful and helpful |
 
@@ -55,16 +55,16 @@ The project is designed to both engage fans of dystopian fiction and promote the
 **Use cases**  
 Four key user interactions include:
 - **Accessing the settings**   
-Users will select a settings to explore the different settings within the world of *The Giver*
+Users will select a setting to explore the different settings within the world of *The Giver*
 
     User Journey:
     - The user opens the website 
     - They click on the hamburger menu on the top left or the 'Settings' button after they scroll down
     - They click on the word 'Settings'
-    - A page will open with the different settings in a sidebar that they can choose form
+    - A page will open with the different settings in a sidebar that they can choose from
 
 - **Accessing the households**  
-Users will select a household to view and overview of each family unit in the story, including who lives there and their roles
+Users will select a household to view an overview of each family unit in the story, including who lives there and their roles
 
     User Journey:
     - The user opens the website
@@ -79,7 +79,7 @@ Users will select a character to view a detailed profile
      - The user opens the website
      - They click on the hamburger menu on the top left or the 'Characters' button
      - They click on the word 'Characters'
-     - They can also click on the characers directly from the 'Households' tab
+     - They can also click on the characters directly from the 'Households' tab
      - When they click the name of a character, the character's profile will open 
 
 - **Accessing the themes**  
@@ -89,7 +89,7 @@ Users will select a theme to explore the major ideas of the *The Giver* with a s
     - The user opens the website
     - They click on the hamburger menu on the top left or the 'Themes' button
     - They click on the word 'Themes'
-    - A page will open with the different themes in a sidebar they they can choose from
+    - A page will open with the different themes in a sidebar they can choose from
 
 - **Accessing the 'About the Author'**
 Users will be able to get a deeper understanding about the author
@@ -155,7 +155,7 @@ When the user selects 'About the Author', the website should open a page dedicat
 The website will deliver smooth, responsive interactions to ensure that users can move between pages without delays. Navigation transitions will occur within a second and all buttons will respond instantly when clicked. Images and texts will load quickly so users do not experience lag or broken content. This is to make sure that the website is an engaging interactive experience. 
 
 **Usability**    
-The design will prioritise clarity and ease of use through a consistent layout, minimalist interface and a intuitive navigation structure. A left-side hamburger menu will keep sections organised while each page uses accessible font sizes and clear headings. Interactive elemtns such as clickable icons and layered information will be easy to recognise and use, helping users explore the content without confusion. 
+The design will prioritise clarity and ease of use through a consistent layout, minimalist interface and an intuitive navigation structure. A left-side hamburger menu will keep sections organised while each page uses accessible font sizes and clear headings. Interactive elements such as clickable icons and layered information will be easy to recognise and use, helping users explore the content without confusion. 
 
 **Reliability**    
 The website will be designed to function consistently and predictably so users can navigate without encountering errors or broken interactions. To achieve this, the prototype will be built using a clear and organised structure in Adobe XD, with most components, artboards, and assets properly labelled. This reduces the chance of accidental changes affecting other parts of the design and makes it easier to update or refine features later. 
@@ -163,7 +163,7 @@ The website will be designed to function consistently and predictably so users c
 Throughout development, each interactive element such as buttons, menus, transitions and clickable icons will be tested repeatedly to ensure they always lead to the correct page and behave the same way every time. Any issues such as broken links, missing content, or inconsistent animations will be identified early and corrected before finalising the prototype.
 
 **Security**  
-The website prototype will prioritise user safety by ensuring that no personal data is collected, stored or shared at any stage. Because the project does not require accounts, logins or user trakcing, there is no risk of exposing sensitive information. All interactions within the protoype remain local to the user, meaning nothing they click, view or explore is recorded. By keeping the design avoid data-collection features, the project maintains a secure environment suitable for students and general readers. 
+The website prototype will prioritise user safety by ensuring that no personal data is collected, stored or shared at any stage. Because the project does not require accounts, logins or user tracking, there is no risk of exposing sensitive information. All interactions within the prototype remain local to the user, meaning nothing they click, view or explore is recorded. By keeping the design avoid data-collection features, the project maintains a secure environment suitable for students and general readers. 
 
 ## Social, Ethical and Legal Issues
 ### Social Impact
@@ -181,8 +181,8 @@ The design aims to be inclusive so that all students, regardless of reading leve
 This project has several positive impacts on its users. It encourages students to engage more deeply with the novel, helping them understand its characters, themes, etc. in a way that feels approachable and enjoyable. 
 
 The interactive format supports:
-- Improved conprehension as students can explore information at their own pace
-- Increased motivation to read since the website maks the story feel more immersive
+- Improved comprehension as students can explore information at their own pace
+- Increased motivation to read since the website makes the story feel more immersive
 - Support for visual learners who often struggle with traditional study materials
 
 By presenting the novel's ideas in a interactive way, the project helps bridge the gap between reading and understanding. 
@@ -198,14 +198,14 @@ The prototype will not collect any user data, as it does not require accounts, l
 The project aims to fairly and accurately represent the characters, settings, and themes from *The Giver*. Since the book intentionally leaves some details open to interpretation, the design will avoid stereotypes or assumptions that could misrepresent characters or groups. Visuals inspired by the film will be used carefully to ensure they do not contradict the book’s descriptions or create biased portrayals. The goal is to present the world of the novel in a way that is respectful, neutral, and inclusive for all users.
 
 **Content Sensitivity**  
-*The Giver* is considered a controversial book due to its mature, dark and often disturbing content. There are themes of violence and death, euthanasia, infanticide, suicide, sexuality and neglect. These topics can be confronting for younger audiences. To handle this responsibly, the prototype will present sensitive themes in a simplified, age-appropriate way, avoid graphic or distrubing imagery and focus on explaining ideas rather than the distressing details. This ensures the website remains educational and respectful while still acknowledging the seriousness of the book’s themes.
+*The Giver* is considered a controversial book due to its mature, dark and often disturbing content. There are themes of violence and death, euthanasia, infanticide, suicide, sexuality and neglect. These topics can be confronting for younger audiences. To handle this responsibly, the prototype will present sensitive themes in a simplified, age-appropriate way, avoid graphic or disturbing imagery and focus on explaining ideas rather than the distressing details. This ensures the website remains educational and respectful while still acknowledging the seriousness of the book’s themes.
 
 ### Legal Considerations
 **Copyright & Intellectual Property**  
-This project will use materials from the both the movie and the book including short quotes and images from the movie. Because these materials are protected by copyright, they will be handled carefully within legal limits. Only bried excerpts from the novel will be used which falls under fair dealing for education purposes in Australia. Any images used in the prototype will be clearly credited at the bottom of every page to acknowledge the original creators and avoid misuse. 
+This project will use materials from the both the movie and the book including short quotes and images from the movie. Because these materials are protected by copyright, they will be handled carefully within legal limits. Only brief excerpts from the novel will be used which falls under fair dealing for education purposes in Australia. Any images used in the prototype will be clearly credited at the bottom of every page to acknowledge the original creators and avoid misuse. 
 
-**Terms of Use** 
-If this project was to be released as a real website, it would need to be changed to follow the legal requriements for using material from both *The Giver* book and its movie adaptation. Any quotes taken directly from the novel are protected by copyright meaning that it will be fine as long as they are used for education purposes, like my website, and are only short excerpts. Images from the film are also copyrighted and cannot be used freely outside an educational purpose. Because of this, the images would need to be credited properly and in a real public release need permission from the right holders. 
+**Terms of Use**  
+If this project was to be released as a real website, it would need to be changed to follow the legal requirements for using material from both *The Giver* book and its movie adaptation. Any quotes taken directly from the novel are protected by copyright meaning that it will be fine as long as they are used for education purposes, like my website, and are only short excerpts. Images from the film are also copyrighted and cannot be used freely outside an educational purpose. Because of this, the images would need to be credited properly and in a real public release need permission from the right holders. 
 
 The project must also follow the terms of use for the software used to create it, such as Adove XD to ensure that all tools and assets are used legally and withint their allowed purposes. 
 
@@ -223,8 +223,8 @@ The project must also follow the terms of use for the software used to create it
 | Software Option | Plus | Minus | Implications |
 |---|---|---|---|
 | **Adobe XD** | Adobe XD is easy to learn and provides the exact tools needed to create a website. It is easy to navigate after you learn the gist of how to use the program, allowing the user to focus on designing the website rather than being complicated like other programs which would take a lot of time to learn. It won’t be that troublesome for me, especially as I have used it before and already understand a little bit of its layout and different features. The tools for prototyping and creating interactive elements make it ideal for a project that needs smooth transitions, clear layouts and organised content. Adobe XD also supports quick testing and editing, so that users can refine their program continuously and efficiently. | Even though Adobe XD is generally intuitive, it can be confusing to use it at first as some tools and features are not immediately obvious. You would have to watch tutorials or look up guides before understanding how to create certain interactions or use specific functions, which can slow down the early stages of creating and designing your project. Some features also require extra steps, making it harder to guess how to use them without any help. In addition, Adobe XD is not as frequently updated anymore, so certain tools aren’t available, feel limited or are outdated compared to other, more modern programs. | Adobe XD has its strengths such as having an intuitive layout and interactive prototyping tools. The fact that I am already familiar with the basics also helps me to use the program as this means that I can design my website efficiently and focus more on the creative aspects of the project which would cut down a lot of time from having to learn how to use a whole other program. However, the challenges such as the confusing features in the beginning, the need to watch tutorials and understand certain tools tell me that I will need extra time for a little bit of extra learning and troubleshooting. This helps me to prepare and save more time for when I might get stuck or need to look up a guide. |
-| **Figma** | Figma is easily accessible and easy to use, even for beginners. It has a clean interface which makes it simple to create wireframes, prototypes and layouts without getting overwhelmed. Figma also runs in the browser, meaning it works on most devices without needing installation, and it automatically saves progress, reducing the risk of losing your work. Figma is also intuitve and fits my purpose on creating a website. It has all the interactive elements and transitons I want and need. | Figma can be confusing at first and is apparently horrible to use for others especially when learning how to use componenets, auto-layout or move advanced prototyping tools. Some features may not be immediately obvious, so you need to start by watching tutorials or looking up guides to understand how to use them properly. Because it is browser-based, it can also lag or slow down if you internet connection is weak, which can interrupt the design process and maybe cause you to lose your program accidentally at some point. While Figma may offer many things, it can feel overwhelming due to the number of tools and panels available, it may take time to become fully comfortable in navigating around. | The positives and negatives of FIgma show that I could be a strong option for designing my project because of its clean interface. However, the learning curve and the need to rely on many different tutorials mean that I would need extra time to understand the more advanced features and tools before I could work with it comfortably. Since I already have experience with Adobe XD, switching to Figma might slow me down rather than help. |
-| **HTML** | Using HTML gives complete control over how the website will look and function. It allows for full customisation including layouts, colours, animations and interactions. This means that the final product can be extremely close to my vision. Once I understand the basics, it can become a flexible tool that can be used for almost any type of digital project. It loads quickly which makes it ideal for creating fast and responsive websites. | HTML can be challenging and time-consuming especially for beginners. Unlike Abode XD or Figma, you can’t simply drag and drop elements but you have to write everything manually using code. This makes it harder to visualise your design as you go and small mistakes can break the layout and cause errors that are difficult to fix. You would need to watch tutorials or search for solutions because it is not always obvious on how to apply certain features. Creating interactive elements, animations or complex layouts require additional languages which increases the difficulty. | While HTML offers complete creative freedom, it would significantly slow down my project because of the time required to code, text and fix errors. Using HTML would also shift too much attention toward technical coding rather than the design. As my goal is visual storytelling and interactive exploration of The Giver, this would not be suitable for my website. |
+| **Figma** | Figma is easily accessible and easy to use, even for beginners. It has a clean interface which makes it simple to create wireframes, prototypes and layouts without getting overwhelmed. Figma also runs in the browser, meaning it works on most devices without needing installation, and it automatically saves progress, reducing the risk of losing your work. Figma is also intuitve and fits my purpose on creating a website. It has all the interactive elements and transitons I want and need. | Figma can be confusing at first and is apparently horrible to use for others especially when learning how to use componenets, auto-layout or move advanced prototyping tools. Some features may not be immediately obvious, so you need to start by watching tutorials or looking up guides to understand how to use them properly. Because it is browser-based, it can also lag or slow down if you internet connection is weak, which can interrupt the design process and maybe cause you to lose your program accidentally at some point. While Figma may offer many things, it can feel overwhelming due to the number of tools and panels available, it may take time to become fully comfortable in navigating around. | The positives and negatives of Figma show that I could be a strong option for designing my project because of its clean interface. However, the learning curve and the need to rely on many different tutorials mean that I would need extra time to understand the more advanced features and tools before I could work with it comfortably. Since I already have experience with Adobe XD, switching to Figma might slow me down rather than help. |
+| **HTML** | Using HTML gives complete control over how the website will look and function. It allows for full customisation including layouts, colours, animations and interactions. This means that the final product can be extremely close to my vision. Once I understand the basics, it can become a flexible tool that can be used for almost any type of digital project. It loads quickly which makes it ideal for creating fast and responsive websites. | HTML can be challenging and time-consuming especially for beginners. Unlike Adobe XD or Figma, you can’t simply drag and drop elements but you have to write everything manually using code. This makes it harder to visualise your design as you go and small mistakes can break the layout and cause errors that are difficult to fix. You would need to watch tutorials or search for solutions because it is not always obvious on how to apply certain features. Creating interactive elements, animations or complex layouts require additional languages which increases the difficulty. | While HTML offers complete creative freedom, it would significantly slow down my project because of the time required to code, text and fix errors. Using HTML would also shift too much attention toward technical coding rather than the design. As my goal is visual storytelling and interactive exploration of *The Giver*, this would not be suitable for my website. |
 
 ## Wireframes
 ### Home Screen
@@ -238,7 +238,8 @@ The project must also follow the terms of use for the software used to create it
 
 
 ### Peer Feedback
-(Word for word)
+(Word for word)  
+
 **Usability**  
 - Its very structured so you can put it a lot of information without it being overwhelming to the user
 - Very easy to understand
@@ -262,8 +263,7 @@ The project must also follow the terms of use for the software used to create it
 - More images in the theme section
 
 ### Evaluation
-Evaluate what you have learned from the feedback and its influence on your understanding of user needs and design improvements. 
-Evaluate the feedback in terms of its impact on your project moving forward. Consider what changes you might make to your project, and why.
+I learned from the feedback to make sure that the design layout was overal similar and not to overwhelming and different on every page. I also learned to not put too big chuncks of texts and add a lot of images. This made me understand and start to look at everything more deeply from a user perspective than rather just believing that creating a different layout on every single page would make my website more engaging. This will impact my project by making sure the left-hand side bar will be similar on every page, that I try to shorten the information to as short as possible and so that there are a lot of images and enagaging visual features. 
 
 
 ## User Testing and Feedback - Prototype 1
@@ -275,125 +275,79 @@ I like the set up a lot and its easy to navigate mostly although the hamburger m
 I very much like the layout as it is very consistent and very intuitive. Things are where I expect them to be so it is easy to understand - I know where to look for things. I like that the hamburger menu is scrollable, and also it is a different colour which makes it easier to see. I also like that the top bar is always there. I also really like the animation on the hamburger menu. Maybe she should get rid of the back arrow on the home page where the users spawn because you can't go back - "why is it there ur deceiving me..." Also, the words are different colours - "bro it makes me burn". She should also make the buttons have an effect when users scroll over them so that they would know if they can press it or not. 
 
 ### Analyse Feedback - Prototype 1
-
-
+The peer feedback told me that my layout was clear and easy to navigate, but the hamburger menu was a bit confusing and some visual elements were inconsistent like the colours of the words. Both Arisa and Vanessa stated that my website was intuitive overall, especially with the scrollable menu and fixed top bar but needed a stronger visual consistency and clearer cues like using the hover effect so that the user can tell what can be pressed and what cannot. Nobody mentioned an performance issues and the feedback between both was very similar, which shows that my main problems were the clarity and design consistency. 
 
 ## User Testing and Feedback - Prototype 2
 #### Arisa Komatsu   
-I like that the images are mostly monotonous as it adds to the theme/atmosphere of the website. The layout is really nice and I like how we are given the list of the main characters and their pictures and how the pictures are so nice. It seems like an offical site. I also like the side navigation bar and how it transitions to which bit of the page you want when you click the sub-headings as it makes it more convenient and so satisfying. The font is also a big size so that its readable and very accessible. However, the images are so pixelated and makes it feel cheap. Maybe get a better resolution. Also maybe add more transitions between screens like when you click a button into a new screen. 
+I like that the images are mostly monotonous as it adds to the theme/atmosphere of the website. The layout is really nice and I like how we are given the list of the main characters and their pictures and how the pictures are so nice. It seems like an official site. I also like the side navigation bar and how it transitions to which bit of the page you want when you click the sub-headings as it makes it more convenient and so satisfying. The font is also a big size so that its readable and very accessible. However, the images are so pixelated and makes it feel cheap. Maybe get a better resolution. Also maybe add more transitions between screens like when you click a button into a new screen. 
 
 #### Vanessa He   
 I love how the images are black and white and have a matching colour theme so it makes the experience feel like its all in harmony and fits well together. I also like how the end always has the disclaimer bar which is very good. However, maybe use better quality images and also when you click a tab somewhere, the tab just jumps to the middle of the image. I don't know if its intentional but I don't really mind. Also, in the household tab the box moves with the screen so you might have to fix that, as well as the menu is draggable in the hamburger menu. 
 
-
 ### Analyse Feedback
-Following each feedback round, answer the following questions in Markdown:
+The peer feedback showed that the overall layout, theme and navigation was strong as both Arisa and Vanessa liked the consistent black-and-white images, readable font size and transitions (which I haven’t added yet??). They also seemed to like the professional feel of the different pages. However, they pointed out several issues that affected the usability including the pixelated images, inconsistent behaviour when clicking tabs and a draggable hamburger menu as well as a moving box on the household page. Both suggested improving the image quality and adding more transitions between screens to make the experience seem more smoother. Overall, their feedback was very similar and highlighted the need to fix visual clarity, stabilise the interactive elements and refine the transitions as the main priorities for my final prototype. 
 
-Analyse the key themes that emerged from user feedback and their overall impact on the project.
-
-Evaluate how intuitive and user-friendly the prototype was based on user feedback.
-
-Analyse whether the design elements and accessibility features effectively met user needs.
-
-Evaluate the performance of the prototype, including any issues related to speed, responsiveness, or compatibility.
-
-Analyse the similarities and differences between survey responses and interview insights to identify patterns.
-
-Evaluate the most critical areas for improvement and how they should be addressed in the next sprint.
 
 ## Ongoing Evaluation - Week 1
-- Started and finished my first prototype (Prototype 1)
-- Wanted make it so that the menu was collapsable but it kept overlapping the main menus under it instead of them getting pushed down under the sub menus
-- I mainly had trouble in operating the ____ but got the hang of it after watching some videos and experimenting around the screen
-- Was supposed to finish it during the holidays...
-- Time management was good if you only consider the first week of school
-- I need to improve my design as they are too "rectangular" right now I want to make it more immersive to look at
-- I need to work on the menu and try to make it collapsable instead of how it is already out write now instead of when you hover over it
-- For next week, I need to finish prototype 2 by adding all the visual effects and solving the menu problem before week 3 (will be heavy but I guess worth it?)
-- I also need/want to rearrange all of my design but that depends on the time because write now everything is too structured so that it becomes boring to look at in my opinon
+This week, I finished my 1st prototype which was the overall shaping and structure of my website. I also experimented with a collapsible menu which I really wanted to make, but the layout kept breaking because the submenus would overlap the main menus instead of pushing them downward to create more space. I struggled with some Adobe XD features but got the hang of it after watching some videos and tutorials and experimenting around the screen.  Although I did plan to finish this during the holidays, I only started and completed everything this week. I think my time management was really strong but I know that I probably need to improve my consistency instead of procrastinating. Moving forward, I want to make the design feel less rigid and ‘rectangular’ but rather more immersive but this might depend on the time because rearranging might take too long. I also plan to revisit the menu to try to make it collapsible instead of how everything is already written out. My goal for next week would be to begin and finish prototype 2 which is just adding all the visual effects and images and solving the menu problem before week 3. Next week might be a bit heavy but we’ll see how it goes. 
 
 ![](./images/First_Menu.png)
 ![](./images/First_Prototype.png)
 
 ## Ongoing Evaluation - Week 2
-- gave up on my menu and just changed it to be simple
-- Tried to find a different menu but I just couldn't find it
-- I gave up heh and just decided ot go simple is best
-- obvisouly very bad time management because i actually wanted to find all my photos but my mind just gave up on me and i was lazy the whole weekend ( I also had beauty and the ebast to watch so i had no time on saturday as i was out literally the whole day )
-- got my evaluation for protoype 1 from ppl ( monday )
-- I started ot draw my title page the giver picture because id idn't want to get everything from online but then I ended up giving up because im really bad at draqwing and it was really hard to draw and be able to look at it and see what it is clearly (If i t wasnt clear that would be very bad)
-- I think in the future, i will find a picture and put it in a bibliography or try to trace over and draw it myself (we will see)
-- Also added a top white retantgle so that if someone was to scroll, the title, hamrburger menu, back buttpon and logo wouldnt disappear but stay at the top of the screen so that users can go back, go to the main screen or chakc the menu whenver they want to 
-- I didnt know how to do it so i just added a white rectangle and made sure evrything stayed still when they scrolled. I also made sure that in the alyuers, eveyrthing was udner the things mentioned above so that they would scrool beneaqth and not over the title ( I didnt know how to move it to evreuthoing else automaticallyu so i just did it one by ine )
-- I guess next week ill add the photos and try to start the information and try to finsih prototype 3 before i got tas (prob not possible ebcasue i have too much theiry to get through)
-- I need to work on my font and menu because i want my website to be mroe prettier and less bland
+This week I gave up and decided to just simplify the menu after realizing that the collapsible version was going to take too much time and cause unnecessary frustration. I did try some other options that I had researched but none worked the way I wanted, so I chose a cleaner and more simpler design. My time management this week was obviously really bad because while I planned to find all my images, my mind decided to give up on me, making me lazy on the weekend. I also had Beauty and the Beast to watch so I had no time on Saturday as I was out literally the whole day. I also started to try and draw my own title image for *The Giver* to avoid relying entirely on online assets but I ended up giving up because I’m really bad at drawing and my final product did not show anything that I had intended to draw. In the future, I think I will just find a picture and add a bibliography or try to trace over and draw it myself. Additionally, I added a white rectangle at the top so that if the user was to scroll, the title, the hamburger menu, the back button and the logo wouldn’t disappear but stay at the top of the screen so that the users will be able to go back to the main screen or the page before without having to scroll all the way back up. The rectangle also made sure that all the images and words disappeared being the title and so force rather than covering it. Other than all that, I received my peer feedback for the 1st prototype. Next week, I plan to actually add the images and try to start writing the information and finish prototype 3 before the Tas Trip. I also need to work on my font and menu because I want my website to be prettier and less bland and boring than it is right now. 
 
 ![](./images/White_Rectangle.png)
 ![](./images/Second_Menu.png)
 
 ## Ongoing Evaluation - Week 3
-- changed the menu so that it was white and fit he ttheme of everythign else ( arisa's feedback to prototype 2 )
-- I decided to seperate all of my characters to their own pages as it would be easier to read and much more simplke and less confusing for the users rather than them scrolling down and down or clicking the side button
-- It was a little hard to find photos that werene tblurry and if i got them form the movie myself because they were screenshorts they were still very blurry
-- Added a little bibliography thing at the btotom of every page to fulfill my legal conditions to mention the movie for the photos
-- added all photos 
-- added an :"about the author" page
-- wrote all of my informaTION ON THE google docs
-- week 4, i need to edit and move all the information into the actual website on adobe xd
-- got my evaluation about prototype 2 from ppl
-- for the character opages, i also made it so that they could go to different characters hat are related ot them through clickig on their names (I'm freally proyd of it lol and i didnt know how to do it easo;y so ill have ot do all of them one by one )
-- i htink my time tmamagement was actually good this weej because even if adding htphtos dont seem like a lot it actualy took a lot of time and also id dint expect myself to finsih all of the theory 
+This week I was actually productive and focused on refining the visual and structural elements of the website. I received my feedback for my 2nd prototype after I added all the images. I also updated the menu to a white theme rather than the black after getting Arisa’s feedback. I decided to also separate each character and give them their own page as it would be easier to read and be much more simpler and less confusing for the users rather than have them scrolling up and down continuously. Additionally in each character, I gave them a family and friends section where if the user was to click on a name, the website would take them to the page about that character. Finding clear images was challenging as many of the screenshots from the movie were blurry and when I tried to get my own photos, they turned out to be even worse. I added a small bibliography section at the bottom of each page just for the images to credit the movie and meet my legal requirements. I also created an ‘About the Author’ page because why not and wrote all of my information that I need into a Google Doc. My time management this week was actually really good because all I basically need to do now is add the information. Next week, I plan to move all of my written content into the website and continue to refine the layout. 
 
 ![](./images/Final_Menu.png)
 ![](./images/Images_Added.png)
 
 ## Ongoing Evaluation - Week 4
-Provide screenshots of your progress this week.
-
-Outline your progress this week, including key tasks completed and any challenges you encountered.
-
-Analyse the most important design or functionality decisions you made and justify your choices.
-
-Explain how you approached and resolved any difficulties or obstacles this week.
-
-Evaluate your time management and workflow—what strategies were effective, and what could be improved?
-
-Outline your priorities for next week—what specific areas need further development or refinement?
-
-- added all information in
+This week, I added all of my written information into my website and tried to shorten all the information as I realised that it looked really text heavy on the screen. I also changed all of my fonts so that it looked prettier and more engaging. My time management was really bad as I got really lazy after the Tas Trip even though I wasn’t really tired, as I just didn’t want to work on it. Next week, I need to add the logo, fix the blurry images and complete some final touch-ups to make sure that the website matches the expectations outlined in my README file. I also plan to add transitions to pages to improve overall user experience. 
 
 ![](./images/Information_Added.png)
 
 ## Ongoing Evaluation - Week 5
-Provide screenshots of your progress this week.
-
-Outline your progress this week, including key tasks completed and any challenges you encountered.
-
-Analyse the most important design or functionality decisions you made and justify your choices.
-
-Explain how you approached and resolved any difficulties or obstacles this week.
-
-Evaluate your time management and workflow—what strategies were effective, and what could be improved?
-
-Outline your priorities for next week—what specific areas need further development or refinement?
-
-- Added logo and fixed all blurry images
+This week, I added the logo, fixed all my blurry images and added the transitions to the pages throughout my website. I also adjusted my font size from 50 to 44 so that the text felt less overwhelming while still remaining readable. I spent most of my time on the final adjustments which was rearranging the elements that looked strange, checking alignments and making sure that my README file accurately reflected what I actually achieved rather than what I originally planned. For some reason, if the alignments were fine on my mac, it would be overlapped and all over the place on the school computers. So after I fixed it at school and came home to hand it in after adding the transitions, it was all messed up again so I had to refix it. Overall, I basically completed prototype 3 by Wednesday so my time management wasn’t really ideal because I also realised that I had forgotten to add the transitions later and had to do it on Thursday. Despite this I finished my prototype 3, my final design!! YAYYY!!!
 
 ![](./images/Finished.png)
 
 ## Final Evaluation
 ### Evaluate how effectively your product meets the functional and non-functional requirements, including its stated purpose, use case flows, expected behaviours, usability, performance, reliability, and any relevant security considerations.
-My project meets the functional requirements very effectively because every major interaction described in my requirements specification is represented clearly in my Adobe XD prototype. The purpose of my website is to allow users to explore the settings, themes, characters, households and author information from The Giver in a visual and interactive way. My prototype successfully supports this by giving users multiple pathways to access information, such as the hamburger menu, the homepage buttons and the clickable character icons. As stated in my requirements, users are able to explore the book through interactive features and visual elements which I achieved through layered information and consistent navigation. 
+My project meets the functional requirements very effectively because every major interaction described in my requirements specification is represented clearly in my Adobe XD prototype. The purpose of my website is to allow users to explore the settings, themes, characters, households and author information from *The Giver* in a visual and interactive way. My prototype successfully supports this by giving users multiple pathways to access information, such as the hamburger menu, the homepage buttons and the clickable character icons. As stated in my requirements, users are able to explore the book through interactive features and visual elements which I achieved through layered information and consistent navigation. 
 
 The use case flows I wrote are also reflected accurately in the prototype. For example, the ‘Settings’, ‘Households’, ‘Characters’, ‘Themes’ and ‘About the Author’ pages all follow the expected behaviours I outlined. My feedback from my peers also confirmed that the navigation was intuitive, showing that the prototype communicates its purpose clearly. The expected behaviours such as the smooth transitions, correct page loading and responsive buttons were all met while there were some issues like how the images were really pixelated and when the word ‘menu’ suddenly became draggable during testing. While these issues didn’t break the functionality of the overall website, they highlighted my areas for refinement and improvement. 
 
-In terms of non-functional requirements, my project performed well in usability, performance, reliability and security. According to the feedback, my prototype was described to be ‘easy to understand’ and ‘intuitive’ which shows that the usability goals were met. Additionally, the minimalist layout, clear headlines and the consistent top bar all support accessibility and reduce overwhelming users. Performance was strong because Adobe XD prototype load quickly and respond instantly, matching my requirements that navigations will occur within a second. Reliability was supported through consistent interactions across pages concluding similar layouts of each page. Security requirements were fully met because the prototype collects no data and stores nothing about the user, which aligns with my statement that no personal data is collected, stored or shared at any stage.’
+In terms of non-functional requirements, my project performed well in usability, performance, reliability and security. According to the feedback, my prototype was described to be ‘easy to understand’ and ‘intuitive’ which shows that the usability goals were met. Additionally, the minimalist layout, clear headlines and the consistent top bar all support accessibility and reduce overwhelming users. Performance was strong because Adobe XD prototype load quickly and respond instantly, matching my requirements that navigations will occur within a second. Reliability was supported through consistent interactions across pages with similar layouts. Security requirements were fully met because the prototype collects no data and stores nothing about the user, which aligns with my statement that no personal data is collected, stored or shared at any stage.’
 
 
 ### Evaluate how well your final product meets the intentions outlined in your design brief, including suitability for the target audience and purpose.
+My final product aligns with the intentions outlined in my design brief as it states that my goal is  to create an interactive website based on the novel *The Giver* while allowing the readers to explore the world of the book in a deeper and more engaging way. My website achieves this by presenting the novel’s world through visuals, interactive navigation and layered information. Instead of retelling the plot, the website expands on the book’s settings, themes, characters and households, which matches my intention to help users understand the deeper layers of the story. The use of mainly monochrome images, consistent colour palettes and minimalist layout also reflects the tone of the novel, reinforcing immersion. 
+
+My project is also well-suited for the target audience I identified, which are teenagers studying dystopian fiction or readers who prefer visual learning. My design avoids long, repetitive paragraphs and instead gets to the point and uses layering, images and interactive elements as what I mentioned. The peer feedback I received also supports this with the comments along the lines of how there are lots of variations in text size and images which make it a lot easier to understand and how it seems like an official site, showing that the design successfully appeals to the intended audience. 
+
+Overall, the website fulfills the purpose of the design brief by being educational, visually engaging and easy to navigate. It supports independent exploration, encourages curiosity by presenting the world of *The Giver* in a way that feels more modern and accessible. While some improvements are needed such as a bit shorter explanations and higher quality images, I believe that I have met the core intentions of my brief. 
+
 
 ### Evaluate the extent to which your project addresses relevant social, ethical, and legal responsibilities, particularly in relation to the chosen book and user experience.
+My project addresses social, ethical and legal responsibilities in several ways. Socially, the design considers the needs of students with different learning styles by using readable fonts, simple navigation and a minimalist layout to reduce overload. In my documentation, I noted that my website reflects these priorities through the consistent top bar, scrollable menus and large text sizes. The interactive format also supports visual learners and students who struggle with traditional and repetitive text-heavy study materials. 
+
+Ethically, I have been careful to represent the themes and characters of *The Giver* respectfully. The book deals with sensitive topics such as euthanasia, emotional suppression and death and I acknowledged in my documentation that themes may be sensitive for younger or vulnerable users and must be present responsibly. My website avoids graphic imagery and focuses on explanation rather than its exact value. I also avoided stereotypes or misrepresentations by basing my content on the books rather than relying solely on the film adaptation. 
+
+Legally, I have taken steps to respect copyright and intellectual property. I stated that the project will only use short excerpts and images from the film that are within education fair dealing limits and that all images would be credited properly at the bottom of each page. Additionally, my website collects no user data, which eliminates privacy risks and aligns with ethical design practices. 
+
 
 ### Evaluate how effectively you managed your time, resources, and processes throughout the project, including how well you met milestones, adapted to challenges, and maintained consistent progress.
+Throughout the project, I managed my time and resources with varying levels of effectiveness, but I consistently met the major milestones for each prototype. In the early stages, I worked efficiently and completed Prototype 1 on schedule, even though I had originally planned to finish it during the holidays. As the project progressed, I adapted to challenges such as the collapsible menu not working, blurry images, and layout inconsistencies across different devices. When certain ideas became too time‑consuming like drawing my own title image or building a complex menu, I adjusted my approach and simplified the design to stay on track.
+
+Some weeks were less productive due to lack of motivation or external commitments, but I still maintained steady progress and completed all required prototypes. My workflow improved as I learned more about Adobe XD, and I relied on tutorials, experimentation, and peer feedback to solve problems. By the final week, I was able to complete Prototype 3 and refine the design, even though I had to repeatedly fix alignment issues between my Mac and the school computers. Overall, while my time management wasn’t perfect, I adapted well to challenges and ensured consistent progress toward the final product.
+
 
 ### Evaluate how effectively you gathered and responded to user feedback and testing with consideration to how it influenced your design decisions and what aspects of the product still require improvement.
+User feedback played a major role in shaping the final design, and I responded to it effectively throughout the project. Early feedback highlighted issues with navigation clarity, inconsistent colours, and the confusing hamburger menu, which led me to simplify the menu, fix the top bar, and improve visual consistency. Later feedback focused on pixelated images, layout behaviour, and missing transitions, which pushed me to replace low‑quality images, stabilise interactive elements, and add transitions in the final week. Both rounds of feedback consistently pointed out the same issues, which helped me prioritise improvements such as clearer navigation, better image quality, and more polished interactions.
+
+While I addressed most concerns, some areas like perfecting image resolution and refining certain page behaviours could still be improved in the future if worked on. The feedback also helped me understand the importance of maintaining consistent layouts and avoiding overwhelming text, which influenced how I structured each page and shortened my content. Overall, user testing strongly influenced my design decisions and helped me create a more intuitive, consistent, and user‑friendly final prototype, while also highlighting areas that could be refined if the project were developed further.
