@@ -55,7 +55,7 @@ The project is designed to both engage fans of dystopian fiction and promote the
 **Use cases**  
 Four key user interactions include:
 - **Accessing the settings**   
-sUers will select a settings to explore the different settings within the world of *The Giver*
+Users will select a settings to explore the different settings within the world of *The Giver*
 
     User Journey:
     - The user opens the website 
@@ -383,6 +383,12 @@ Outline your priorities for next week—what specific areas need further develop
 
 ## Final Evaluation
 ### Evaluate how effectively your product meets the functional and non-functional requirements, including its stated purpose, use case flows, expected behaviours, usability, performance, reliability, and any relevant security considerations.
+My project meets the functional requirements very effectively because every major interaction described in my requirements specification is represented clearly in my Adobe XD prototype. The purpose of my website is to allow users to explore the settings, themes, characters, households and author information from The Giver in a visual and interactive way. My prototype successfully supports this by giving users multiple pathways to access information, such as the hamburger menu, the homepage buttons and the clickable character icons. As stated in my requirements, users are able to explore the book through interactive features and visual elements which I achieved through layered information and consistent navigation. 
+
+The use case flows I wrote are also reflected accurately in the prototype. For example, the ‘Settings’, ‘Households’, ‘Characters’, ‘Themes’ and ‘About the Author’ pages all follow the expected behaviours I outlined. My feedback from my peers also confirmed that the navigation was intuitive, showing that the prototype communicates its purpose clearly. The expected behaviours such as the smooth transitions, correct page loading and responsive buttons were all met while there were some issues like how the images were really pixelated and when the word ‘menu’ suddenly became draggable during testing. While these issues didn’t break the functionality of the overall website, they highlighted my areas for refinement and improvement. 
+
+In terms of non-functional requirements, my project performed well in usability, performance, reliability and security. According to the feedback, my prototype was described to be ‘easy to understand’ and ‘intuitive’ which shows that the usability goals were met. Additionally, the minimalist layout, clear headlines and the consistent top bar all support accessibility and reduce overwhelming users. Performance was strong because Adobe XD prototype load quickly and respond instantly, matching my requirements that navigations will occur within a second. Reliability was supported through consistent interactions across pages concluding similar layouts of each page. Security requirements were fully met because the prototype collects no data and stores nothing about the user, which aligns with my statement that no personal data is collected, stored or shared at any stage.’
+
 
 ### Evaluate how well your final product meets the intentions outlined in your design brief, including suitability for the target audience and purpose.
 
@@ -390,4 +396,4 @@ Outline your priorities for next week—what specific areas need further develop
 
 ### Evaluate how effectively you managed your time, resources, and processes throughout the project, including how well you met milestones, adapted to challenges, and maintained consistent progress.
 
-## Evaluate how effectively you gathered and responded to user feedback and testing with consideration to how it influenced your design decisions and what aspects of the product still require improvement.
+### Evaluate how effectively you gathered and responded to user feedback and testing with consideration to how it influenced your design decisions and what aspects of the product still require improvement.
